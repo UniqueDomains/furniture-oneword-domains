@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .FURNITURE one-word domains still available to buy.
 
-This dataset contains 4,800 .FURNITURE one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,797 .FURNITURE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.FURNITURE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=furniture-oneword-domains&utm_content=description.top) (4,800) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.FURNITURE one word do
 
 | Domain               | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.furniture        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.furniture        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.furniture      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.furniture  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.furniture      | available | 43       | 2%     | 5      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.FURNITURE one word do
 | abatic.furniture     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.furniture    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.furniture   | available | 50       | 1%     | 8      |           |         |         |
-| abc.furniture        | available | 102      | 41%    | 3      |           |         |         |
+| abc.furniture        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.furniture  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.furniture  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.furniture | available | 56       | 1%     | 10     |           |         |         |
