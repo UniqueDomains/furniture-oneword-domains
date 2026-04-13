@@ -66,15 +66,15 @@ print(df.head())
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | easy.furniture     | available | $39.99    | $151.99       | 128            | 68     | 4      | name.com                                                  |
 | smart.furniture    | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC                                              |
-| free.furniture     | premium   | $250      | $250          | 88             | 59     | 4      | name.com                                                  |
+| ace.furniture      | premium   | $128.70   | $128.70       | 88             | 57     | 3      | namecheap                                                 |
 | live.furniture     | available | $39.99    | $151.99       | 108            | 56     | 4      | name.com                                                  |
 | business.furniture | resell    | —         | —             | 100            | 53     | 8      | GoDaddy.com, LLC                                          |
-| ace.furniture      | premium   | $128.70   | $128.70       | 88             | 57     | 3      | namecheap                                                 |
+| free.furniture     | premium   | $250      | $250          | 88             | 57     | 4      | name.com                                                  |
 | data.furniture     | available | $127.98   | —             | 70             | 56     | 4      | namecheap                                                 |
 | info.furniture     | resell    | —         | —             | 80             | 51     | 4      | NameCheap, Inc.                                           |
 | one.furniture      | premium   | $85.80    | $85.80        | 132            | 50     | 3      | namecheap                                                 |
 | zero.furniture     | available | $39.99    | $151.99       | 112            | 53     | 4      | name.com                                                  |
-| digital.furniture  | resell    | —         | —             | 100            | 50     | 7      | Sav.com, LLC                                              |
+| digital.furniture  | resell    | —         | —             | 100            | 49     | 7      | Sav.com, LLC                                              |
 | abc.furniture      | premium   | $260      | $260          | 102            | 50     | 3      | namecheap                                                 |
 | true.furniture     | available | $39.99    | $151.99       | 86             | 52     | 4      | name.com                                                  |
 | new.furniture      | resell    | —         | —             | 82             | 49     | 3      | Porkbun LLC                                               |
