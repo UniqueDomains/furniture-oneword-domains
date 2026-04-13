@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C687%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C688%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C687%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .furniture one-word domains from U
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,687 rows · **Live catalog:** 9,687 domains
+**Public extract:** 9,688 rows · **Live catalog:** 9,687 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/furniture`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FURNITURE one-word do
 
 ### Files
 
-- `furniture.csv` — public CSV extract (9,687 rows)
-- `furniture.json` — public JSON extract (9,687 rows)
+- `furniture.csv` — public CSV extract (9,688 rows)
+- `furniture.json` — public JSON extract (9,688 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -65,25 +65,25 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | easy.furniture     | available | $39.99    | $151.99       | 128            | 68     | 4      | name.com                                                  |
-| business.furniture | resell    | —         | —             | 100            | 53     | 8      | GoDaddy.com, LLC                                          |
+| smart.furniture    | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC                                              |
 | free.furniture     | premium   | $250      | $250          | 88             | 59     | 4      | name.com                                                  |
 | live.furniture     | available | $39.99    | $151.99       | 108            | 56     | 4      | name.com                                                  |
-| info.furniture     | resell    | —         | —             | 80             | 51     | 4      | NameCheap, Inc.                                           |
+| business.furniture | resell    | —         | —             | 100            | 53     | 8      | GoDaddy.com, LLC                                          |
 | ace.furniture      | premium   | $128.70   | $128.70       | 88             | 57     | 3      | namecheap                                                 |
 | data.furniture     | available | $127.98   | —             | 70             | 56     | 4      | namecheap                                                 |
-| digital.furniture  | resell    | —         | —             | 100            | 50     | 7      | Sav.com, LLC                                              |
+| info.furniture     | resell    | —         | —             | 80             | 51     | 4      | NameCheap, Inc.                                           |
 | one.furniture      | premium   | $85.80    | $85.80        | 132            | 50     | 3      | namecheap                                                 |
 | zero.furniture     | available | $39.99    | $151.99       | 112            | 53     | 4      | name.com                                                  |
-| new.furniture      | resell    | —         | —             | 82             | 49     | 3      | Porkbun LLC                                               |
+| digital.furniture  | resell    | —         | —             | 100            | 50     | 7      | Sav.com, LLC                                              |
 | abc.furniture      | premium   | $260      | $260          | 102            | 50     | 3      | namecheap                                                 |
 | true.furniture     | available | $39.99    | $151.99       | 86             | 52     | 4      | name.com                                                  |
-| and.furniture      | resell    | —         | —             | 108            | 48     | 3      | Sav.com, LLC                                              |
+| new.furniture      | resell    | —         | —             | 82             | 49     | 3      | Porkbun LLC                                               |
 | real.furniture     | premium   | $85.80    | $85.80        | 78             | 49     | 4      | namecheap                                                 |
 | cloud.furniture    | available | $127.98   | —             | 70             | 51     | 5      | namecheap                                                 |
-| car.furniture      | resell    | —         | —             | 84             | 46     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| and.furniture      | resell    | —         | —             | 108            | 48     | 3      | Sav.com, LLC                                              |
 | travel.furniture   | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap                                                 |
 | life.furniture     | available | $127.98   | —             | 84             | 50     | 4      | namecheap                                                 |
-| mix.furniture      | resell    | —         | —             | 66             | 44     | 3      | GoDaddy.com, LLC                                          |
+| car.furniture      | resell    | —         | —             | 84             | 46     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,687-row public sample | 9,687 live domains                               |
+| 9,688-row public sample | 9,687 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FURNITURE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FURNITURE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
