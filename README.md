@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .furniture one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,662 domains · **Median ask:** $49.88 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/furniture`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | agents.furniture             | available | $39.99    | —             | 56             | 50     | 6      | name.com  |
 | backyard.furniture           | premium   | $250      | —             | 80             | 27     | 9      | name.com  |
 | skills.furniture             | available | $39.99    | —             | 58             | 47     | 6      | name.com  |
-| highend.furniture            | premium   | $138.60   | $138.60       | 72             | 17     | 8      | namecheap |
+| highend.furniture            | premium   | $138.60   | $138.60       | 72             | 19     | 8      | namecheap |
 | prompts.furniture            | available | $39.99    | —             | 54             | 39     | 7      | name.com  |
 | packages.furniture           | premium   | $78.54    | $78.54        | 54             | 13     | 8      | namesilo  |
 | justin.furniture             | available | $39.99    | —             | 58             | 38     | 7      | name.com  |
@@ -77,13 +77,13 @@ print(df.head())
 | events.furniture             | available | $39.99    | —             | 68             | 37     | 6      | name.com  |
 | tickets.furniture            | available | $39.99    | —             | 64             | 34     | 7      | name.com  |
 | spectra.furniture            | available | $39.99    | —             | 62             | 34     | 7      | name.com  |
-| etc.furniture                | available | $39.99    | —             | 58             | 34     | 3      | name.com  |
+| etc.furniture                | available | $39.99    | —             | 58             | 32     | 3      | name.com  |
 | William.furniture            | available | $127.98   | —             | 74             | 31     | 7      | namecheap |
-| inspiration.furniture        | available | $39.99    | —             | 88             | 30     | 11     | name.com  |
 | rewards.furniture            | available | $39.99    | —             | 62             | 30     | 7      | name.com  |
 | videos.furniture             | available | $39.99    | —             | 52             | 30     | 6      | name.com  |
 | heroes.furniture             | available | $39.99    | —             | 68             | 29     | 6      | name.com  |
 | blocks.furniture             | available | $39.99    | —             | 53             | 29     | 6      | name.com  |
+| Jim.furniture                | available | $127.98   | —             | 78             | 28     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FURNITURE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FURNITURE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
