@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .furniture one-word domains
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,662 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,662 domains · **Median ask:** $49.88 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,662 domains · **Median ask:** $45.44 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/furniture`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/furniture`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FURNITURE one-word do
 
 ### Files
 
-- `furniture.csv` — public CSV extract (1,000 rows)
-- `furniture.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `furniture.csv`, public CSV extract (1,000 rows)
+- `furniture.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| agents.furniture             | available | $39.99    | —             | 56             | 50     | 6      | name.com  |
-| backyard.furniture           | premium   | $250      | —             | 80             | 27     | 9      | name.com  |
-| skills.furniture             | available | $39.99    | —             | 58             | 47     | 6      | name.com  |
-| highend.furniture            | premium   | $138.60   | $138.60       | 72             | 19     | 8      | namecheap |
-| prompts.furniture            | available | $39.99    | —             | 54             | 39     | 7      | name.com  |
-| packages.furniture           | premium   | $78.54    | $78.54        | 54             | 13     | 8      | namesilo  |
-| justin.furniture             | available | $39.99    | —             | 58             | 38     | 7      | name.com  |
-| VirginiaBeach.furniture      | premium   | $138.60   | $138.60       | 58             | 9      | 14     | namecheap |
-| neuroscience.furniture       | available | $39.99    | —             | 80             | 37     | 12     | name.com  |
-| DistrictofColumbia.furniture | premium   | $92.40    | $92.40        | 52             | 4      | 20     | namecheap |
-| events.furniture             | available | $39.99    | —             | 68             | 37     | 6      | name.com  |
-| tickets.furniture            | available | $39.99    | —             | 64             | 34     | 7      | name.com  |
-| spectra.furniture            | available | $39.99    | —             | 62             | 34     | 7      | name.com  |
-| etc.furniture                | available | $39.99    | —             | 58             | 32     | 3      | name.com  |
-| William.furniture            | available | $127.98   | —             | 74             | 31     | 7      | namecheap |
-| rewards.furniture            | available | $39.99    | —             | 62             | 30     | 7      | name.com  |
-| videos.furniture             | available | $39.99    | —             | 52             | 30     | 6      | name.com  |
-| heroes.furniture             | available | $39.99    | —             | 68             | 29     | 6      | name.com  |
-| blocks.furniture             | available | $39.99    | —             | 53             | 29     | 6      | name.com  |
-| Jim.furniture                | available | $127.98   | —             | 78             | 28     | 3      | namecheap |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| out.furniture      | available | $39.99    | —             | high           | low    | 3      | name.com         |
+| okay.furniture     | available | $39.99    | $151.99       | high           | low    | 4      | name.com         |
+| ale.furniture      | available | $39.99    | —             | medium         | low    | 3      | name.com         |
+| american.furniture | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC |
+| abc.furniture      | premium   | $260      | $260          | high           | medium | 3      | namecheap        |
+| ate.furniture      | available | $39.99    | —             | high           | low    | 3      | name.com         |
+| DIY.furniture      | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| axe.furniture      | available | $39.99    | —             | medium         | low    | 3      | name.com         |
+| its.furniture      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| ben.furniture      | available | $39.99    | —             | high           | medium | 3      | name.com         |
+| one.furniture      | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap        |
+| few.furniture      | available | $39.99    | —             | high           | low    | 3      | name.com         |
+| sky.furniture      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| god.furniture      | available | $39.99    | —             | high           | medium | 3      | name.com         |
+| use.furniture      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| how.furniture      | available | $39.99    | —             | high           | low    | 3      | name.com         |
+| pack.furniture     | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap        |
+| key.furniture      | available | $39.99    | —             | high           | medium | 3      | name.com         |
+| brand.furniture    | premium   | $250      | —             | medium         | medium | 5      | name.com         |
+| lap.furniture      | available | $39.99    | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word domains using the .furniture extension. The set is broad, with descriptive words such as green.furniture and tile.furniture, more abstract options such as upper.furniture and question.furniture, and clear risk examples such as ford.furniture. For founders, the main question is whether the word makes the extension feel natural, memorable, and commercially credible. For investors, the key test is whether the term has clear buyer relevance inside furniture, home, interiors, materials, or retail. Median ask is 49.88, which keeps price discipline important, but name quality still depends on fit, clarity, and legal cleanliness rather than low ask alone.
+This selection covers 12,662 .furniture domain names, each a single-string label such as getlucky.furniture, shoparound.furniture or fittogether.furniture. Names lean toward action-oriented, everyday phrases rather than furniture-specific terms, giving founders room to brand across retail, home goods, lifestyle or service concepts. With a median asking price near $45, most of these domains are inexpensive enough to acquire outright rather than negotiate. For investors, the low entry cost and broad namespace create room to build a portfolio without heavy upfront capital. For founders, the same affordability means you can secure a memorable, ownable domain before committing to a business plan. When comparing names in this set, weigh clarity and memorability against renewal cost, since a catchy label loses value if it's expensive to keep or hard to spell aloud.
 
-- Prefer words that pair naturally with the .furniture extension
-- Treat trademarked terms like ford.furniture as high risk
-- Descriptive terms can be clearer than abstract one-word names
-- Low ask helps, but fit and memorability drive real value
+- 12,662 .furniture domains available, median ask near $45
+- One-word labels like getlucky, dogwalking, coffeeroyal
+- Affordable entry point for founders and investors alike
+- Broad naming variety across retail, lifestyle and service concepts
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FURNITURE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FURNITURE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
