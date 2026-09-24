@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .furniture one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,865 domains · **Median ask:** $30.94 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/furniture`
 **Best for:** founders, investors, studios
 
@@ -65,6 +65,10 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | mirror.furniture   | available | $39.99    | —             | high           | low    | 6      | name.com         |
+| rest.furniture     | available | $39.99    | —             | high           | low    | 4      | name.com         |
+| bang.furniture     | available | $39.99    | —             | high           | low    | 4      | name.com         |
+| special.furniture  | available | $39.99    | —             | high           | low    | 7      | name.com         |
+| wrong.furniture    | available | $39.99    | —             | high           | low    | 5      | name.com         |
 | abo.furniture      | available | $23.98    | $127.98       | low            | low    | 3      | namecheap        |
 | american.furniture | resell    | —         | —             | medium         | low    | 8      | GoDaddy.com, LLC |
 | abc.furniture      | premium   | $260      | $260          | medium         | medium | 3      | namecheap        |
@@ -80,10 +84,6 @@ print(df.head())
 | use.furniture      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 | ben.furniture      | available | $39.99    | —             | high           | medium | 3      | name.com         |
 | five.furniture     | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo         |
-| clx.furniture      | available | $23.98    | $127.98       | low            | low    | 3      | namecheap        |
-| pack.furniture     | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap        |
-| cxl.furniture      | available | $23.98    | $127.98       | low            | low    | 3      | namecheap        |
-| brand.furniture    | premium   | $260      | $260          | low            | low    | 5      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FURNITURE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FURNITURE One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
