@@ -1,10 +1,10 @@
-# Available .FURNITURE One-Word Domains (24,113)
+# Available .FURNITURE One-Word Domains (24,676)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C113%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C676%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .furniture one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,113 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,676 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,113 domains · **Median ask:** $31.11 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 24,676 domains · **Median ask:** $31.16 · **High-demand under $2,500:** 5
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/furniture`
@@ -71,19 +71,19 @@ print(df.head())
 | save.furniture      | premium   | $108.90   | $108.90       | high           | low    | 4      | dynadot      |
 | axe.furniture       | available | $39.99    | —             | high           | low    | 3      | name.com     |
 | indian.furniture    | premium   | $242      | $242          | high           | low    | 6      | namesilo     |
-| bug.furniture       | available | $39.99    | —             | high           | low    | 3      | name.com     |
+| bea.furniture       | available | $20.90    | $82.76        | high           | low    | 3      | spaceship    |
 | kansas.furniture    | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo     |
-| ccc.furniture       | available | $23.98    | $127.98       | high           | medium | 3      | namecheap    |
+| bug.furniture       | available | $39.99    | —             | high           | low    | 3      | name.com     |
 | manila.furniture    | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo     |
-| cxv.furniture       | available | $23.98    | $127.98       | high           | low    | 3      | namecheap    |
+| ccc.furniture       | available | $23.98    | $127.98       | high           | medium | 3      | namecheap    |
 | report.furniture    | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo     |
-| dye.furniture       | available | $39.99    | —             | high           | low    | 3      | name.com     |
+| cxv.furniture       | available | $23.98    | $127.98       | high           | low    | 3      | namecheap    |
 | buffalo.furniture   | premium   | $128.70   | $128.70       | high           | low    | 7      | namecheap    |
-| fop.furniture       | available | $39.99    | $151.99       | high           | low    | 3      | name.com     |
+| dye.furniture       | available | $39.99    | —             | high           | low    | 3      | name.com     |
 | carolina.furniture  | premium   | $200.50   | —             | high           | low    | 8      | unstoppable  |
-| gil.furniture       | available | $27.99    | $94.99        | high           | low    | 3      | namesilo     |
+| fop.furniture       | available | $39.99    | $151.99       | high           | low    | 3      | name.com     |
 | bangalore.furniture | premium   | $78.54    | $78.54        | high           | low    | 9      | namesilo     |
-| gip.furniture       | available | $23.98    | $127.98       | medium         | low    | 3      | namecheap    |
+| gil.furniture       | available | $27.99    | $94.99        | high           | low    | 3      | namesilo     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,113 live domains                        |
+| 1,000-row public sample | 24,676 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
