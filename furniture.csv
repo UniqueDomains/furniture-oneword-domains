@@ -5,6 +5,7 @@ bc4c2cd2-ca10-4ea9-ae97-8cb97afc606e,subjective.furniture,available,27.99,94.99,
 2a8eb193-7b3f-4e5d-b810-a1b0ba072b9f,wideband.furniture,available,23.98,127.98,high,low,8,namecheap,,,13/09/2026 11:50
 d97105fb-3b67-4ac3-8583-c91dbb6786e2,worldling.furniture,available,23.98,127.98,medium,low,9,namecheap,,,11/09/2026 10:47
 092953f3-fe1f-4f81-9c85-e323ef2fb302,affairs.furniture,available,27.99,94.99,high,low,7,namesilo,,,17/09/2026 14:09
+deb285ea-b782-491e-bd28-243be854d3b0,melrose.furniture,available,20.9,82.76,medium,low,7,spaceship,,,28/09/2026 08:55
 77c333c8-615a-4708-9c24-fd32bc748096,largo.furniture,available,23.98,127.98,medium,low,5,namecheap,,,22/08/2026 19:59
 9bf4a048-4a22-4d91-845e-1f6379297e6e,flyaway.furniture,available,23.98,127.98,high,low,7,namecheap,,,18/08/2026 08:13
 3f8e5c04-95be-45ae-a8eb-2cfd0b1507c7,sucker.furniture,available,27.99,94.99,high,low,6,namesilo,,,18/09/2026 08:56
@@ -19,12 +20,15 @@ e34bebe9-ad2a-46af-8691-b146b493f1e4,jitney.furniture,available,27.99,94.99,medi
 50c0408a-b1dc-4f3e-80a2-43f075478581,backlog.furniture,available,27.99,94.99,high,low,7,namesilo,,,21/09/2026 15:41
 45e6a67f-443c-44fd-a1f0-99bd30c581d5,inactive.furniture,available,23.98,127.98,medium,low,8,namecheap,,,22/08/2026 00:11
 5990c32b-3ca7-4dc2-840c-7cc79398bd63,alcohols.furniture,available,23.98,127.98,medium,low,8,namecheap,,,20/09/2026 18:31
+df582d35-c274-4218-812b-06cd2e8cbe16,obstruction.furniture,available,20.9,82.76,medium,low,11,spaceship,,,28/09/2026 17:02
 15d031f4-6ba6-407e-98c3-28572457029c,monopoly.furniture,available,39.99,,high,low,8,name.com,,,
 70eb6c91-bb5a-4a3a-ae8f-6dd4bc95f3bb,scam.furniture,available,23.98,127.98,high,low,4,namecheap,,,14/09/2026 08:03
 5492a23a-28d5-4eab-9a00-f9ae986bf09a,men.furniture,available,39.99,,high,low,3,name.com,,,
 3e259c90-edfa-4276-853f-975dd9c362ad,wherever.furniture,available,23.98,127.98,medium,low,8,namecheap,,,16/09/2026 11:29
 5d5cacee-dfe2-4d06-b01d-ddbaa01703fa,mimicry.furniture,available,27.99,94.99,medium,low,7,namesilo,,,19/09/2026 16:43
-d5c3aa46-50d8-4010-bde0-bf1eafb05ca1,soil.furniture,available,27.99,94.99,high,low,4,namesilo,,,24/09/2026 02:55
+900c5b57-f3bc-4c08-8bef-da3450184187,resemble.furniture,available,26.5,,high,low,8,unstoppable,,,28/09/2026 20:53
+d5c3aa46-50d8-4010-bde0-bf1eafb05ca1,soil.furniture,available,27.99,94.99,high,low,4,namesilo,,,28/09/2026 09:00
+0f71d09c-c7b5-4be2-9cee-d1b612fe5936,macpherson.furniture,available,27.99,94.99,medium,low,10,namesilo,,,28/09/2026 22:18
 f3c39e1a-a54d-48e1-80dd-0a8599537af5,foregone.furniture,available,23.98,127.98,medium,low,8,namecheap,,,11/08/2026 12:10
 199e09ef-bb8a-4bb6-bb92-66925abb7098,grandmothers.furniture,available,23.98,127.98,medium,low,12,namecheap,,,20/09/2026 18:06
 a2336ed7-a241-4109-8509-fe631ba661f9,cope.furniture,available,23.98,127.98,high,low,4,namecheap,,,24/09/2026 18:08
@@ -32,28 +36,31 @@ a2336ed7-a241-4109-8509-fe631ba661f9,cope.furniture,available,23.98,127.98,high,
 cb39a8a9-369e-43b7-b29b-b1b7df9e18c9,rudderless.furniture,available,23.98,127.98,medium,low,10,namecheap,,,
 b1a96b6d-e7fa-4ae6-a290-b013aaf19050,gush.furniture,available,23.98,127.98,high,low,4,namecheap,,,22/08/2026 13:07
 8efb8d37-5937-4d35-831b-71ecfe5e8398,confessed.furniture,available,20.9,82.76,medium,low,9,spaceship,,,28/09/2026 04:56
-f8d5dc46-87e4-4f62-b8dd-68c5dc2f3988,data.furniture,available,27.99,94.99,high,medium,4,namesilo,,,27/09/2026 01:43
+f8d5dc46-87e4-4f62-b8dd-68c5dc2f3988,data.furniture,available,20.9,82.76,high,medium,4,spaceship,,,28/09/2026 19:45
 7f6280cf-3aa5-4bac-9623-64bc1f96908f,cxv.furniture,available,23.98,127.98,high,low,3,namecheap,,,
-297d0950-765a-40c3-ba7f-ea8a463a044f,boot.furniture,available,39.99,,high,low,4,name.com,,,
+297d0950-765a-40c3-ba7f-ea8a463a044f,boot.furniture,available,80.2,80.2,high,low,4,cloudflare,,,29/09/2026 03:39
 f4dbb1ec-8bfd-4e89-87b9-b2f669467a6e,luke.furniture,available,27.99,94.99,high,low,4,namesilo,,,25/09/2026 06:37
 a178a01c-8f87-4bc8-a55d-3d903ea10a06,cryogenic.furniture,available,23.98,127.98,medium,low,9,namecheap,,,13/08/2026 09:35
 823d19c5-0fb3-496b-b41d-13e66e8de212,wasted.furniture,available,27.99,94.99,medium,low,6,namesilo,,,22/09/2026 11:10
 2a69cf1d-4504-48de-9d11-fb63eef76453,dependant.furniture,available,23.98,127.98,medium,low,9,namecheap,,,14/08/2026 02:08
+ff8c7ed6-02c0-4385-9af3-026c5508e74e,pike.furniture,available,20.9,82.76,high,low,4,spaceship,,,28/09/2026 14:07
 cf3d1230-ea18-4974-b3e3-525beb3eb0c7,pen.furniture,available,27.99,94.99,high,low,3,namesilo,,,27/09/2026 03:22
 00a82312-7cdd-4f7c-aae4-9b6e839401f0,uses.furniture,available,27.99,94.99,high,low,4,namesilo,,,25/09/2026 13:12
 24bbe033-4018-45dc-9798-d0dab0e1c21c,demoralize.furniture,available,23.98,127.98,medium,low,10,namecheap,,,13/08/2026 02:16
 29248a20-cbc5-4291-9fcc-c3b8312d1dbc,dynamite.furniture,available,27.99,94.99,high,low,8,namesilo,,,25/09/2026 22:28
 50f9459c-97d5-486f-996e-0c3b6b93ebcd,ferocious.furniture,available,23.98,127.98,medium,low,9,namecheap,,,18/08/2026 02:05
-1e13f4ca-177f-4b88-8a56-633523195b16,ala.furniture,available,39.99,,high,low,3,name.com,,,
+1e13f4ca-177f-4b88-8a56-633523195b16,ala.furniture,available,26.5,,high,low,3,unstoppable,,,28/09/2026 19:57
 3221fa0e-ff5c-4ae3-8762-53011fc100c9,bulls.furniture,available,26.5,,high,low,5,unstoppable,,,28/09/2026 07:33
 251d2e12-fa84-4de5-ba63-78192c687990,bleeder.furniture,available,27.99,94.99,medium,low,7,namesilo,,,24/09/2026 05:24
 27f246f9-63be-4b2a-897b-493ee01fdb30,crease.furniture,available,23.98,127.98,high,low,6,namecheap,,,13/08/2026 07:14
 ec2ebcd9-b8d1-4912-870f-9a97ee1df138,healthcare.furniture,available,21.59,85.01,high,low,10,dynadot,,,28/09/2026 03:04
 afd88130-020b-4afd-9958-b6d3244ff21c,yum.furniture,available,39.99,,high,low,3,name.com,,,
+125bac2a-0ba9-4368-ab69-237a2555384e,waving.furniture,available,27.99,94.99,high,low,6,namesilo,,,28/09/2026 15:32
 ddf0c442-8264-4b6f-9486-992fac929776,plentitude.furniture,available,23.98,127.98,medium,low,10,namecheap,,,15/09/2026 20:35
 85688880-e2d1-4c58-a0fe-94630c0b9ed1,sisyphean.furniture,available,23.98,127.98,medium,low,9,namecheap,,,10/09/2026 08:58
 81312e75-70fb-40d9-82fe-f72859b99216,presenter.furniture,available,39.99,151.99,high,low,9,name.com,,,23/09/2026 10:46
 6a37adc1-51f5-4a47-81db-c0fb835230d6,alright.furniture,available,27.99,94.99,high,low,7,namesilo,,,22/09/2026 01:15
+49876ec7-e0c2-47f7-b11d-60eea2d31433,hebron.furniture,available,20.9,82.76,medium,low,6,spaceship,,,28/09/2026 16:34
 ef274549-6e90-419b-bff1-3556d4729850,campaigning.furniture,available,39.99,,high,low,11,name.com,,,
 23afb174-cb67-4e09-a055-7a266ea3ad59,hull.furniture,available,23.98,127.98,high,low,4,namecheap,,,28/09/2026 01:42
 31d34c9e-1033-4f5e-86bf-6e1feef703ca,parking.furniture,available,23.98,127.98,high,low,7,namecheap,,,25/09/2026 23:56
@@ -69,7 +76,7 @@ b414eefd-2f14-42bd-8d74-e556034c1a40,overheated.furniture,available,23.98,127.98
 41f542d7-1627-4aff-96cb-7d05f6e0b08b,tortrix.furniture,available,27.99,94.99,medium,low,7,namesilo,,,20/09/2026 05:04
 ddfc0cfc-fe28-46fa-82c5-04445d2358e4,meeter.furniture,available,27.99,94.99,medium,low,6,namesilo,,,21/09/2026 01:27
 d89c95e9-f815-4d3d-b65f-da8700219ad9,tokens.furniture,available,27.99,94.99,high,medium,6,namesilo,,,19/09/2026 22:34
-0fc5b866-ca3d-4afc-b6a2-2f682a5d0cde,boxing.furniture,available,39.99,,high,low,6,name.com,,,
+0fc5b866-ca3d-4afc-b6a2-2f682a5d0cde,boxing.furniture,available,21.59,85.01,high,low,6,dynadot,,,29/09/2026 03:51
 68d677f0-d8b4-4e43-8989-46f6ffb36b84,bowl.furniture,available,27.99,94.99,high,low,4,namesilo,,,24/09/2026 07:38
 f1f61deb-0e85-4514-9fb7-bd8df3b12185,horary.furniture,available,23.98,127.98,medium,low,6,namecheap,,,21/08/2026 13:58
 a5ac50be-1e10-486f-ba08-9ec82309b95f,crowns.furniture,available,27.99,94.99,medium,low,6,namesilo,,,18/09/2026 06:26
@@ -78,7 +85,9 @@ fab06f35-67fb-4a95-940d-43a9582d1704,rican.furniture,available,23.98,127.98,high
 bbda8689-5eb4-49dc-897e-189652b0f80c,steal.furniture,available,39.99,,high,low,5,name.com,,,
 05b4b3ca-d9f2-4597-aa47-2c9ff67d9dd6,unlaced.furniture,available,23.98,127.98,medium,low,7,namecheap,,,12/09/2026 14:37
 4aeaea2f-5607-4ad9-af16-a4555851cea5,balaton.furniture,available,23.98,127.98,medium,low,7,namecheap,,,21/09/2026 21:18
+dc5ee741-6216-4451-8e8e-d4bd67bccede,doorway.furniture,available,26.5,,high,low,7,unstoppable,,,28/09/2026 18:58
 8dc84bc6-5f5d-4d9f-b9ff-77a609d236e6,polygon.furniture,available,39.99,,high,low,7,name.com,,,
+36a2e54c-72f0-4405-b57a-7dc5ef398354,wagner.furniture,available,80.2,80.2,high,medium,6,cloudflare,,,28/09/2026 20:05
 99a5accd-b217-4ef8-a7d6-99f913d83d44,toothsome.furniture,available,23.98,127.98,medium,low,9,namecheap,,,14/08/2026 00:24
 510c975c-ce89-49bf-a9e4-fb5c8a6e30e1,heterodox.furniture,available,23.98,127.98,medium,low,9,namecheap,,,14/08/2026 12:37
 57afba80-cf73-4a91-ad0c-bd0002ebd4bd,barnyard.furniture,available,27.99,94.99,high,low,8,namesilo,,,22/09/2026 06:58
@@ -86,14 +95,14 @@ bbda8689-5eb4-49dc-897e-189652b0f80c,steal.furniture,available,39.99,,high,low,5
 4585940a-c459-4565-8aff-dc0969f44b6f,romance.furniture,available,21.59,85.01,high,low,7,dynadot,,,27/09/2026 15:59
 5005d1b9-181c-4808-bef4-90ad00359870,loyalty.furniture,available,39.99,151.99,high,low,7,name.com,,,18/09/2026 10:32
 418ec5e7-0883-4948-b5c9-c5a71e7144f4,coexistent.furniture,available,23.98,127.98,medium,low,10,namecheap,,,12/08/2026 15:30
-c40aacf5-be73-4e3d-b99b-3c9738dd3b59,allergist.furniture,available,39.99,,medium,low,9,name.com,,,
+c40aacf5-be73-4e3d-b99b-3c9738dd3b59,allergist.furniture,available,80.2,80.2,medium,low,9,cloudflare,,,28/09/2026 20:30
 054ea470-639c-4a5b-9229-ab4521ac7776,disjunct.furniture,available,23.98,127.98,medium,low,8,namecheap,,,14/08/2026 11:25
 b46c72c0-492a-4bbb-9938-e946a5b70b7a,defaults.furniture,available,27.99,94.99,low,low,8,namesilo,,,21/09/2026 07:23
 80a12846-7613-4638-9ec0-73379ddd26e0,berne.furniture,available,23.98,127.98,medium,low,5,namecheap,,,23/09/2026 09:45
 df45c7f4-bcf1-4e90-af76-acb5aac5c73d,icily.furniture,available,23.98,127.98,low,low,5,namecheap,,,15/09/2026 01:36
 4bcd86d7-0398-40bc-8cda-626894dfe677,autarchy.furniture,available,27.99,94.99,medium,low,8,namesilo,,,21/09/2026 05:05
 cb3496f1-8712-4932-833d-96af16cafd60,inwardly.furniture,available,23.98,127.98,medium,low,8,namecheap,,,15/09/2026 09:18
-0426c76e-a578-4d0e-ab63-065e2e1c93a2,jacobs.furniture,available,39.99,,high,low,6,name.com,,,
+0426c76e-a578-4d0e-ab63-065e2e1c93a2,jacobs.furniture,available,80.2,80.2,high,low,6,cloudflare,,,28/09/2026 20:14
 f1fab644-b063-45a3-af12-aa150934717e,surly.furniture,available,23.98,127.98,medium,low,5,namecheap,,,11/09/2026 04:06
 10138aa0-8c4f-4e64-8629-58e16d8ba270,malformed.furniture,available,23.98,127.98,medium,low,9,namecheap,,,13/08/2026 23:43
 080138dd-6ad5-4fa4-baed-9f2f5ef6a92e,monochrome.furniture,available,23.98,127.98,high,low,10,namecheap,,,25/08/2026 04:59
@@ -116,15 +125,17 @@ d95645c9-425e-4196-a9f3-5b298ce8ca52,polyhedral.furniture,available,23.98,127.98
 2832ee8a-96e4-45d3-97d0-229ab7129887,inner.furniture,available,23.98,127.98,high,low,5,namecheap,,,22/08/2026 05:54
 5430b6d0-8b06-4143-8458-abde9d8d4b8e,nervy.furniture,available,23.98,127.98,medium,low,5,namecheap,,,11/08/2026 02:28
 00d29a9b-f8b5-4492-9c72-8aa2379746bf,leger.furniture,available,27.99,94.99,medium,low,5,namesilo,,,16/09/2026 23:07
-cee25575-ed6c-4b1a-8490-23b059c3a19c,digital.furniture,resell,,,high,medium,7,"Sav.com, LLC",11/02/2026 17:01,11/02/2027 17:01,26/09/2026 05:33
+cee25575-ed6c-4b1a-8490-23b059c3a19c,digital.furniture,resell,,,high,medium,7,"Sav.com, LLC",11/02/2026 17:01,11/02/2027 17:01,28/09/2026 15:01
 b7c23658-c45d-4c61-96ae-12ac50f5f705,canceled.furniture,available,27.99,94.99,medium,low,8,namesilo,,,27/09/2026 22:41
 635befa8-69aa-48f9-af3d-87ab67969c0e,admissible.furniture,available,23.98,127.98,high,low,10,namecheap,,,
 859f79db-9ce4-4e0f-823b-d31a25851f49,pointless.furniture,available,23.98,127.98,medium,low,9,namecheap,,,26/09/2026 03:12
 8f2f1cfb-e0d8-416a-aea4-c4801a7292d4,both.furniture,available,39.99,,high,low,4,name.com,,,
-a2a7b8bc-9e0d-401f-b7c4-75881bf8f2fb,baguette.furniture,available,39.99,,high,low,8,name.com,,,
+a2a7b8bc-9e0d-401f-b7c4-75881bf8f2fb,baguette.furniture,available,27.99,94.99,high,low,8,namesilo,,,29/09/2026 00:33
 6f680bce-5343-4675-a46c-cfab29868956,grinning.furniture,available,27.99,94.99,high,low,8,namesilo,,,27/09/2026 23:14
 907c8bc5-df28-476f-955b-f0a9fcb02ae8,thrilled.furniture,available,23.98,127.98,high,low,8,namecheap,,,11/09/2026 14:36
+f4b98a4f-4a74-42b2-a122-2275f924b84b,isabel.furniture,available,27.99,94.99,high,low,6,namesilo,,,28/09/2026 16:24
 822164bf-b280-43de-8668-72606a9f1c9a,rostrum.furniture,available,27.99,94.99,medium,low,7,namesilo,,,18/09/2026 17:15
+64f9edea-29ff-449b-afe5-a02f22adc03e,decades.furniture,available,27.99,94.99,low,low,7,namesilo,,,28/09/2026 13:15
 f6b16d2f-0553-4030-bb1a-74557626a1fe,filling.furniture,available,27.99,94.99,high,low,7,namesilo,,,25/09/2026 22:48
 303953c1-7190-43f1-b594-267f2d0da7e1,lunchboxes.furniture,available,27.99,94.99,medium,low,10,namesilo,,,21/09/2026 09:13
 463321a6-56c5-443c-9295-4214942e93bc,memorably.furniture,available,23.98,127.98,medium,low,9,namecheap,,,15/09/2026 14:01
@@ -132,7 +143,7 @@ f6b16d2f-0553-4030-bb1a-74557626a1fe,filling.furniture,available,27.99,94.99,hig
 277e2f48-e539-4374-bc0b-4bbb34f46a9b,neighboring.furniture,available,39.99,,high,low,11,name.com,,,
 97e88bea-8c8e-4d0b-a0a1-f77e4bca210c,volcanic.furniture,available,23.98,127.98,high,low,8,namecheap,,,13/09/2026 06:48
 b71afabe-6da0-4e8f-8d10-389f289f8819,enwrapped.furniture,available,23.98,127.98,medium,low,9,namecheap,,,
-087dedb4-f0c2-442c-899e-34a26bbbcd67,display.furniture,available,27.99,94.99,high,low,7,namesilo,,,25/09/2026 04:58
+087dedb4-f0c2-442c-899e-34a26bbbcd67,display.furniture,available,20.9,82.76,high,low,7,spaceship,,,28/09/2026 12:59
 72562383-ee82-4a5f-8cd0-1aa53c390ee7,albumen.furniture,available,27.99,94.99,high,low,7,namesilo,,,18/09/2026 03:31
 bd25de56-35f3-4004-811e-20daeec496e4,doubter.furniture,available,23.98,127.98,medium,low,7,namecheap,,,
 dc7c7c65-e8ee-4c30-9f8a-c746bf2a5ba8,disagree.furniture,available,39.99,,high,low,8,name.com,,,
@@ -152,8 +163,9 @@ f290c482-9167-4a08-81b8-58e24b4ee6d4,macleod.furniture,available,21.59,85.01,med
 368add21-112e-45bf-960e-40f961d65dc8,despised.furniture,available,23.98,127.98,medium,low,8,namecheap,,,14/08/2026 04:10
 062e7f57-d718-4a5d-8120-05b0bf7c77b2,blake.furniture,available,27.99,94.99,high,low,5,namesilo,,,24/09/2026 03:45
 8a41ba27-e72d-4428-b135-a234b194a44d,remind.furniture,available,39.99,151.99,high,low,6,name.com,,,24/09/2026 20:14
+d2f6f312-e9cb-4b81-a66b-5e697ea51f09,israelite.furniture,available,80.2,80.2,medium,low,9,cloudflare,,,29/09/2026 01:21
 1c002de7-2cde-4122-ad4e-8003da24dbb7,basra.furniture,available,27.99,94.99,medium,low,5,namesilo,,,22/09/2026 10:33
-72669fee-1df9-42f7-b789-248aed026c67,keep.furniture,available,39.99,,high,low,4,name.com,,,
+72669fee-1df9-42f7-b789-248aed026c67,keep.furniture,available,27.99,94.99,high,low,4,namesilo,,,29/09/2026 04:03
 52077460-94c1-4136-88e7-5087dd3abeae,blackmail.furniture,available,27.99,94.99,high,low,9,namesilo,,,24/09/2026 02:52
 9d9b5027-930b-4813-be83-2123ff14a502,speckless.furniture,available,23.98,127.98,medium,low,9,namecheap,,,21/08/2026 20:42
 b191ddb9-9cdb-47e4-b53c-1bcd273517cf,astacus.furniture,available,27.99,94.99,medium,low,7,namesilo,,,20/09/2026 16:51
@@ -165,10 +177,11 @@ b4bb7254-4914-489b-bb79-4e323e12ea55,maj.furniture,available,39.99,151.99,high,l
 0bd264bd-13a0-4209-a340-948ead2f0407,instructions.furniture,available,27.99,94.99,high,low,12,namesilo,,,25/09/2026 16:47
 160d8f3a-8751-42d5-a936-edc623b6935a,loses.furniture,available,27.99,94.99,medium,low,5,namesilo,,,27/09/2026 11:07
 1d652987-227d-49c2-bd61-367ed0c1ae5d,loops.furniture,available,27.99,94.99,high,low,5,namesilo,,,17/09/2026 12:15
+8ef5520c-48ab-426d-85e4-af1bed8dc6c5,depths.furniture,available,20.9,82.76,medium,low,6,spaceship,,,28/09/2026 23:11
 39cb79c7-e7a3-44ec-bea9-68d4eb46cc29,results.furniture,available,23.98,127.98,medium,low,7,namecheap,,,
 078af328-eea9-4a80-a331-7110117d939b,distributed.furniture,available,23.98,127.98,high,low,11,namecheap,,,
 9b7372d0-9807-4ff3-845d-92e6c016fd8d,hellish.furniture,available,23.98,127.98,medium,low,7,namecheap,,,09/08/2026 04:59
-51b5dfc2-7f44-4a96-9b68-9c1896939e1a,hang.furniture,available,39.99,,high,low,4,name.com,,,
+51b5dfc2-7f44-4a96-9b68-9c1896939e1a,hang.furniture,available,80.2,80.2,high,low,4,cloudflare,,,28/09/2026 19:01
 a40a88e4-8f57-481d-b587-2299c1ec7d15,hypnotised.furniture,available,23.98,127.98,medium,low,10,namecheap,,,17/08/2026 22:48
 01450aa8-1c14-4cc2-a029-c246a6d669e2,burnt.furniture,available,23.98,127.98,high,low,5,namecheap,,,23/09/2026 11:41
 f357492f-26c5-403e-a00b-306f72952635,unfilmed.furniture,available,23.98,127.98,medium,low,8,namecheap,,,12/09/2026 10:14
@@ -187,6 +200,7 @@ f90fe238-0a64-4519-bb52-2c6383999564,musical.furniture,available,23.98,127.98,hi
 0c8984ff-c533-48d9-b2c9-21992eb22457,walks.furniture,available,27.99,94.99,medium,low,5,namesilo,,,25/09/2026 16:37
 cb0d7444-69c7-49d5-bc97-7944ea549458,restful.furniture,available,23.98,127.98,high,low,7,namecheap,,,09/09/2026 13:26
 6b7a9fcf-5821-4fd8-86b2-c6bbd10d4fe1,comparing.furniture,available,27.99,94.99,high,low,9,namesilo,,,24/09/2026 16:45
+743c0311-9ad8-4105-8040-77c0e0ba4dc7,trench.furniture,available,80.2,80.2,medium,low,6,cloudflare,,,28/09/2026 20:01
 d9b8481f-1c7d-4fcd-804a-29bab932e49e,hapless.furniture,available,23.98,127.98,medium,low,7,namecheap,,,20/08/2026 23:48
 130aec2a-7282-4aef-97b3-08381cc8e8b4,outgoing.furniture,available,23.98,127.98,high,low,8,namecheap,,,18/08/2026 12:37
 91c83ed4-0e4f-4b09-9c64-274ded3b5b1b,queens.furniture,available,39.99,,high,low,6,name.com,,,
@@ -196,7 +210,7 @@ fce459e9-ab12-41e2-92ac-0bdac2b08ede,adoptee.furniture,available,27.99,94.99,med
 66d25044-db2a-42d2-b3b8-8fed7806e67e,outfit.furniture,available,23.98,127.98,high,low,6,namecheap,,,27/09/2026 13:44
 914af111-26ff-4041-acd8-046994ba94b0,incentive.furniture,available,39.99,,high,low,9,name.com,,,
 8a7244d2-2414-45b4-8dcb-2d2f93477934,cathartic.furniture,available,23.98,127.98,high,low,9,namecheap,,,05/08/2026 22:20
-a8d2066e-d788-4c52-a157-67e441a60583,beating.furniture,available,39.99,,high,low,7,name.com,,,
+a8d2066e-d788-4c52-a157-67e441a60583,beating.furniture,available,23.98,127.98,high,low,7,namecheap,,,28/09/2026 10:26
 8272de43-e090-4dc1-b222-5a1b289a1176,airdrop.furniture,available,27.99,94.99,high,low,7,namesilo,,,17/09/2026 23:06
 b5941bae-3495-4246-b366-4b5e2f863907,reentrant.furniture,available,23.98,127.98,medium,low,10,namecheap,,,09/09/2026 10:51
 7c2faf50-7b6e-42aa-99a3-a184dbd44e98,bimonthly.furniture,available,23.98,127.98,high,low,9,namecheap,,,09/08/2026 22:42
@@ -208,6 +222,7 @@ c3d130af-a80e-4c3a-9928-fa5d41608291,washy.furniture,available,23.98,127.98,medi
 b912682c-42d5-456c-af1b-4f2123c2a176,forensic.furniture,available,23.98,127.98,high,low,8,namecheap,,,08/09/2026 15:50
 e86e9122-a27c-4061-8c38-8c96743c2216,usd.furniture,available,26.5,,high,low,3,unstoppable,,,28/09/2026 03:31
 808cc3c8-840e-4ce2-bcdf-1451267b1612,brackish.furniture,available,23.98,127.98,medium,low,8,namecheap,,,11/08/2026 00:43
+41b14200-0f52-4025-89a1-a792f9bcc2f7,antrim.furniture,available,27.99,94.99,medium,low,6,namesilo,,,28/09/2026 16:38
 a9f5bc3f-c83b-4fc0-80e9-08e70b0d8cb3,childcare.furniture,available,27.99,94.99,high,low,10,namesilo,,,24/09/2026 14:36
 e2f0efc3-3363-4fa1-9099-e74fe17d19ab,lieutenant.furniture,available,20.9,82.76,high,low,10,spaceship,,,28/09/2026 02:16
 1fd193ba-ff9b-4551-a483-41ffc2d15977,wanderer.furniture,available,23.98,127.98,high,low,8,namecheap,,,23/09/2026 20:11
@@ -231,10 +246,11 @@ d86081a5-595e-4263-b214-1a1d97dc4e5f,gil.furniture,available,27.99,94.99,high,lo
 3cf5173c-38cb-4e53-b097-a0589bcec168,olympian.furniture,available,23.98,127.98,high,low,8,namecheap,,,17/08/2026 16:01
 db254ed0-c0fd-4df1-bb6c-ba03871a8959,gelid.furniture,available,23.98,127.98,medium,low,5,namecheap,,,18/08/2026 21:05
 a52504f6-a6e5-4a6c-b616-a628140a0865,biotic.furniture,available,23.98,127.98,high,low,6,namecheap,,,10/08/2026 03:14
-8693cc9b-f66a-463f-bc26-67fa20f2c5a7,bug.furniture,available,39.99,,high,low,3,name.com,,,
+8693cc9b-f66a-463f-bc26-67fa20f2c5a7,bug.furniture,available,23.98,127.98,high,low,3,namecheap,,,29/09/2026 00:24
 5a3fee70-cec9-4f2c-82da-22897907ab71,glary.furniture,available,23.98,127.98,medium,low,5,namecheap,,,10/08/2026 13:49
 1f80d5c5-0ebf-44d1-bbb8-112b0ad5054f,amaterasu.furniture,available,27.99,94.99,medium,low,9,namesilo,,,18/09/2026 16:05
 332a83cb-d4a0-4534-9950-c6b7a9690be7,lazuline.furniture,available,23.98,127.98,medium,low,8,namecheap,,,08/08/2026 03:18
+5aab1889-2529-4981-93be-f759466a1a6c,gujarat.furniture,available,21.59,85.01,medium,low,7,dynadot,,,28/09/2026 19:24
 8cd5d483-0e4c-470b-b1e9-6400416d7c41,circuitous.furniture,available,23.98,127.98,medium,low,10,namecheap,,,12/08/2026 08:18
 54eb1342-9d12-4fbf-b72d-87fbf487fe72,chatbot.furniture,available,23.98,127.98,high,medium,7,namecheap,,,25/09/2026 20:08
 32330799-85f4-4145-b9ad-946e3befc629,regally.furniture,available,23.98,127.98,medium,low,7,namecheap,,,15/09/2026 22:55
@@ -254,6 +270,7 @@ d0f55489-9862-47a8-8414-3104ee5c0d6c,katharsis.furniture,available,27.99,94.99,m
 8e02416b-bd57-471d-9309-75d95cf50513,exponent.furniture,available,27.99,94.99,high,low,8,namesilo,,,17/09/2026 11:51
 6efdb0ca-2683-49a5-81ab-661fadce62ec,recognize.furniture,available,23.98,127.98,high,low,9,namecheap,,,27/09/2026 02:43
 ccb80a32-f77f-455e-9fc3-61de167f74c2,freaky.furniture,available,23.98,127.98,high,low,6,namecheap,,,10/08/2026 10:01
+5c9deadf-37aa-49c4-8049-3a642be77ae3,virtue.furniture,available,26.5,,high,low,6,unstoppable,,,28/09/2026 10:22
 7b6ae49d-9646-49c6-a411-f040d6f9ddfa,paean.furniture,available,23.98,127.98,high,low,5,namecheap,,,05/09/2026 00:45
 49913eec-3d4e-4486-bd7a-2a1df8bbed7d,tribute.furniture,available,39.99,,high,low,7,name.com,,,
 864f2a8a-7d6b-4ddf-976f-1a60223018f7,conducted.furniture,available,39.99,,medium,low,9,name.com,,,
@@ -262,6 +279,7 @@ beaf01af-569b-4530-9b31-8b40ac48cb55,benthic.furniture,available,23.98,127.98,me
 1571f581-90da-4be4-9c0d-07fc399c2057,compassion.furniture,available,23.98,127.98,high,low,10,namecheap,,,24/09/2026 16:46
 f257d697-cbfa-4de7-9fe8-3e55d5b3acce,radiantly.furniture,available,23.98,127.98,medium,low,9,namecheap,,,15/09/2026 22:18
 70527e61-bbc2-4e96-9648-91ee6ae4f725,porous.furniture,available,23.98,127.98,medium,low,6,namecheap,,,21/08/2026 10:25
+665cc308-e20b-4a76-a200-4cc88e065e07,connecting.furniture,available,26.5,,medium,low,10,unstoppable,,,28/09/2026 22:52
 a1c02590-97e6-490d-b369-5eb0f768d58e,hysteria.furniture,available,23.98,127.98,high,low,8,namecheap,,,24/09/2026 21:43
 93bafb92-60eb-412d-8093-bd9c2c8c66dc,snakebird.furniture,available,23.98,127.98,medium,low,9,namecheap,,,19/09/2026 08:17
 9ea5e2ec-e96e-42f5-bd29-4abc73139077,miserly.furniture,available,23.98,127.98,medium,low,7,namecheap,,,24/08/2026 23:45
@@ -275,6 +293,7 @@ b2df42d3-e520-4c27-a8ec-566b9a9e0063,ablaze.furniture,available,23.98,127.98,hig
 4803d345-f15a-4f88-a928-6be42ea68906,epidermal.furniture,available,39.99,151.99,medium,low,9,name.com,,,13/08/2026 13:06
 f2abec25-ba2e-43e2-983a-5336c4cfd14b,warriors.furniture,available,20.9,82.76,medium,low,8,spaceship,,,28/09/2026 04:57
 5abfab83-de59-4cbe-b4bd-4975132e879b,tendency.furniture,available,23.98,127.98,high,low,8,namecheap,,,22/08/2026 22:11
+84d0d1c1-47b2-4afd-b339-d1e289f2d93e,penguin.furniture,available,20.9,82.76,high,medium,7,spaceship,,,28/09/2026 10:42
 2719c5ba-4326-47de-b978-9f14ecbd73e5,certainty.furniture,available,27.99,94.99,high,low,9,namesilo,,,24/09/2026 13:39
 a1bf3e8d-b0c3-47d6-952d-9828201a1eb3,nuts.furniture,available,27.99,94.99,high,low,4,namesilo,,,22/09/2026 08:20
 ccf021c7-6ae1-4648-bbbf-8cb86f5a1e5f,unscalable.furniture,available,23.98,127.98,medium,low,10,namecheap,,,12/09/2026 05:23
@@ -284,9 +303,10 @@ b7fd8d61-4ce9-4758-8da8-dfbc3a7d1a47,insincere.furniture,available,23.98,127.98,
 0db09d47-2f68-4e5d-a95c-65cc0fdd2fa0,haircuts.furniture,available,27.99,94.99,medium,low,8,namesilo,,,21/09/2026 07:16
 8f74221a-1a01-4fa6-b8c1-a62f1c9df152,lingo.furniture,available,23.98,127.98,medium,low,5,namecheap,,,13/09/2026 04:12
 5aa96675-0323-49df-82cb-fbeee15699d3,gallantly.furniture,available,23.98,127.98,medium,low,9,namecheap,,,14/09/2026 06:45
+33999c1f-601d-452f-9612-bb0c33202f13,tuscaloosa.furniture,available,20.9,82.76,medium,low,10,spaceship,,,29/09/2026 02:27
 e936c2d6-bc9f-47ba-a979-bffa1ddf5d22,israelites.furniture,available,20.9,82.76,high,low,10,spaceship,,,27/09/2026 13:59
 85eab3b7-da00-4e88-ab6f-867027f6c0b0,detector.furniture,available,27.99,94.99,high,low,8,namesilo,,,24/09/2026 21:49
-b258a6bb-cd8c-4cfd-9845-6eba2c4feead,packing.furniture,available,39.99,,high,low,7,name.com,,,
+b258a6bb-cd8c-4cfd-9845-6eba2c4feead,packing.furniture,available,21.59,85.01,high,low,7,dynadot,,,29/09/2026 00:21
 e9d53734-5fb0-4e0d-9f98-4365f1128a96,songbirds.furniture,available,27.99,94.99,medium,low,9,namesilo,,,21/09/2026 08:44
 0926b85e-5641-4d61-9713-721c84978f41,tool.furniture,available,27.99,94.99,high,low,4,namesilo,,,24/09/2026 16:13
 d157336a-2051-42eb-9141-ab37d98d1977,apprehend.furniture,available,27.99,94.99,high,low,9,namesilo,,,20/09/2026 09:02
@@ -296,10 +316,11 @@ d157336a-2051-42eb-9141-ab37d98d1977,apprehend.furniture,available,27.99,94.99,h
 a8e4d5ef-0b31-47e0-9077-08077db59ea5,mooney.furniture,available,27.99,94.99,high,low,6,namesilo,,,28/09/2026 03:44
 545be7cd-5c7f-4156-928a-66fb5027b3b8,dismissed.furniture,available,27.99,94.99,medium,low,9,namesilo,,,24/09/2026 11:01
 16e380c7-51e9-41f3-9b99-4609bdd848e5,buffalo.furniture,premium,128.7,128.7,high,low,7,namecheap,,,18/09/2026 19:11
-131c0342-4baf-4fc7-ad29-31c3c7403356,area.furniture,available,39.99,,high,low,4,name.com,,,
+131c0342-4baf-4fc7-ad29-31c3c7403356,area.furniture,available,23.98,127.98,high,low,4,namecheap,,,28/09/2026 22:00
 e521fbf8-ae7b-4552-a7d5-c46384746cb8,etcetera.furniture,available,23.98,127.98,high,low,8,namecheap,,,13/09/2026 19:52
 b376b561-b6fa-4490-b933-7357b1e4899e,applicant.furniture,available,27.99,94.99,high,low,9,namesilo,,,19/09/2026 21:53
 5a2ed272-4284-4ab4-98e5-e89a0105d1c3,embrace.furniture,available,39.99,,high,low,7,name.com,,,
+f28ae36d-5207-4694-82ad-ca8a16dddc30,fashionable.furniture,available,20.9,82.76,high,low,11,spaceship,,,28/09/2026 15:41
 046f5526-baf0-490b-9e19-12da498ae1dc,excused.furniture,available,23.98,127.98,medium,low,7,namecheap,,,17/08/2026 16:44
 c87db42d-d4e8-4b82-ba14-bd5c9370c963,onslaught.furniture,available,27.99,94.99,medium,low,9,namesilo,,,21/09/2026 01:06
 a467bc04-ff73-4d80-abc7-722d63effa7c,spatter.furniture,available,23.98,127.98,medium,low,7,namecheap,,,15/09/2026 20:19
@@ -318,6 +339,7 @@ fcd16fc6-093a-485a-9182-9ec115168364,saddening.furniture,available,39.99,,medium
 eb7b5fea-6d6c-4ab8-994d-6a381ed9d8dd,isosceles.furniture,available,23.98,127.98,medium,low,9,namecheap,,,22/08/2026 11:16
 e30ec0ed-f3c6-48f0-89b0-997d965d1d85,going.furniture,available,27.99,94.99,high,low,5,namesilo,,,24/09/2026 22:35
 7685c9e6-1790-49a5-9157-2bb9a4bd0fe9,repressed.furniture,available,23.98,127.98,medium,low,9,namecheap,,,08/09/2026 14:49
+c47bd2a6-90e1-4f21-9c12-1c7ce7576f44,gilman.furniture,available,27.99,94.99,medium,low,6,namesilo,,,28/09/2026 09:22
 64eaa304-dc75-4691-b661-fb9159f94a96,affaire.furniture,available,23.98,127.98,medium,low,7,namecheap,,,17/09/2026 14:00
 7a0412c5-0940-48c5-b77b-0e46ad88a4e6,justification.furniture,available,39.99,,medium,low,13,name.com,,,
 279b2cf8-bc7f-43a4-8406-fc3f01263c1f,hussy.furniture,available,27.99,94.99,medium,low,5,namesilo,,,17/09/2026 10:20
@@ -331,7 +353,7 @@ b30a1c43-1e36-42bb-a4d1-5d2b8284eaba,enlivening.furniture,available,23.98,127.98
 82a342f1-3ef4-4841-9a5e-51e912d2cd4f,importance.furniture,available,39.99,,high,low,10,name.com,,,
 6010ebd0-5f03-4a68-a9c9-98a0316a7a5b,canberra.furniture,available,39.99,151.99,high,low,8,name.com,,,21/09/2026 04:47
 21a42fc7-a161-48b8-9528-9117dd38d5bd,adps.furniture,available,23.98,127.98,medium,low,4,namecheap,,,17/09/2026 09:53
-049fe8c7-0cca-431e-af0c-42e50e8b16bb,arm.furniture,available,,,high,medium,3,,,,
+5b9c866c-97ff-4109-970c-852087e371c0,cheaper.furniture,available,23.98,127.98,low,low,7,namecheap,,,28/09/2026 08:27
 6626d288-c3a8-463e-8aed-e48dca2416fc,aerogram.furniture,available,27.99,94.99,medium,low,8,namesilo,,,17/09/2026 13:04
 bb3911de-dfa4-45e7-a7bc-4a5851f3bc76,inviolable.furniture,available,23.98,127.98,medium,low,10,namecheap,,,21/08/2026 23:02
 cea2e7bb-5986-4a6c-9756-e7b9938ce2da,labeled.furniture,available,23.98,127.98,high,low,7,namecheap,,,22/08/2026 17:13
@@ -349,6 +371,7 @@ b14470c8-9368-4523-868d-3ce678c75642,mauldin.furniture,available,27.99,94.99,med
 9bb69038-0d36-4a00-abd4-68b6e6ccb2a7,sixpenny.furniture,available,23.98,127.98,medium,low,8,namecheap,,,10/09/2026 09:06
 0fcd829a-40f8-4148-8184-cbe51c5c8bfc,arriver.furniture,available,27.99,94.99,medium,low,7,namesilo,,,20/09/2026 09:16
 c34c7999-1aa2-4ef2-8ac6-843fb6418e77,booth.furniture,available,27.99,94.99,high,low,5,namesilo,,,24/09/2026 07:20
+2174093e-005e-4879-9c94-65ecf2178399,baths.furniture,available,27.99,94.99,high,low,5,namesilo,,,28/09/2026 23:22
 7a386b0f-e643-4b4f-942a-6be5e3273f92,blackout.furniture,available,27.99,94.99,high,low,8,namesilo,,,18/09/2026 22:20
 b7a5258d-c6d5-43c2-919b-41f6730ee079,guerrilla.furniture,available,23.98,127.98,high,low,9,namecheap,,,22/08/2026 10:14
 0ac30bb6-dcd0-4036-99da-82bf98341bac,willow.furniture,available,39.99,,high,low,6,name.com,,,
@@ -364,17 +387,19 @@ bb5e29a2-a7c0-43e2-b8a1-84502718be2f,zama.furniture,available,27.99,94.99,medium
 9ed43709-be9e-4d84-983a-e382b3b133c1,hesse.furniture,available,27.99,94.99,high,low,5,namesilo,,,27/09/2026 04:26
 65180ae5-6367-41b2-84c3-e1b5c8347fed,rosen.furniture,available,27.99,94.99,medium,low,5,namesilo,,,26/09/2026 03:15
 9d864fa7-bcd1-4fc8-a302-f053bd042bae,falls.furniture,available,39.99,,high,low,5,name.com,,,
-db4fbb7a-9ec1-4c3a-a70f-c865892cd890,idiom.furniture,available,39.99,,high,low,5,name.com,,,
+db4fbb7a-9ec1-4c3a-a70f-c865892cd890,idiom.furniture,available,20.9,82.76,high,low,5,spaceship,,,28/09/2026 22:21
 a0844ead-2a22-428d-90a4-3dce7831ea8e,blistering.furniture,available,23.98,127.98,medium,low,10,namecheap,,,
 d94bd186-beb8-401a-9c49-f230c4a689af,variation.furniture,available,23.98,127.98,high,low,9,namecheap,,,03/09/2026 11:43
 9e47a1f2-8b09-4dcf-b020-0034671eee78,grandfathers.furniture,available,23.98,127.98,medium,low,12,namecheap,,,20/09/2026 22:52
 5dfe5285-31a8-4c84-bf89-56222cdb68d8,lifeless.furniture,available,23.98,127.98,medium,low,8,namecheap,,,17/08/2026 15:52
 3156b9dc-8e43-40db-a364-d583bea2b237,doctorfish.furniture,available,23.98,127.98,medium,low,10,namecheap,,,16/09/2026 20:58
-ed56575a-8744-4175-9994-628018633805,lonely.furniture,available,39.99,,high,low,6,name.com,,,
+ed56575a-8744-4175-9994-628018633805,lonely.furniture,available,20.9,82.76,high,low,6,spaceship,,,28/09/2026 09:45
 0549d324-78a3-45f0-a08f-bcb31e473eab,sip.furniture,available,39.99,,high,low,3,name.com,,,
 677fb4ef-1c92-4e92-bf74-b500eb3d13dd,minuscule.furniture,available,23.98,127.98,high,low,9,namecheap,,,25/09/2026 15:24
+c845fa44-5e53-449d-9b5c-542c66e210ee,transmitter.furniture,available,21.11,82.9,high,low,11,porkbun,,,28/09/2026 15:46
 01099bdb-7209-4021-a870-e3c107fa23e0,bluetooth.furniture,available,39.99,,high,low,9,name.com,,,
 703ca0ba-accb-4789-bff1-16042ff7886d,exclusively.furniture,available,39.99,,medium,low,11,name.com,,,
+40b522a8-c3a9-41c1-873b-751b1991bea9,ppm.furniture,available,80.2,80.2,high,low,3,cloudflare,,,28/09/2026 08:29
 1a74c5af-19cd-4a9e-b2c3-2007d9d80cab,parody.furniture,available,23.98,127.98,high,low,6,namecheap,,,23/09/2026 11:34
 e5dd5573-71d2-4289-bc0a-aaefd9101d02,blower.furniture,available,23.98,127.98,medium,low,6,namecheap,,,12/08/2026 01:06
 397ca22e-8198-4595-974c-984b47e19acc,antwerpen.furniture,available,27.99,94.99,medium,low,9,namesilo,,,19/09/2026 15:48
@@ -424,18 +449,21 @@ b708b6b5-82de-4820-b727-53eaad915f9f,dowding.furniture,available,23.98,127.98,me
 ee939cf4-04e3-4786-bb89-d3e057ce9d2b,mean.furniture,available,23.98,127.98,high,low,4,namecheap,,,22/09/2026 18:47
 9bb2a58b-c40b-4bd1-9e56-1cac54f7bb47,chant.furniture,available,27.99,94.99,high,low,5,namesilo,,,24/09/2026 13:41
 acf1fadd-c2c9-4aff-a1c0-b8ea95e85b1b,lens.furniture,available,,,high,medium,4,,,,
+9748bf47-b7f5-4189-bbbd-33dea97f5641,crt.furniture,available,23.98,127.98,high,low,3,namecheap,,,28/09/2026 18:38
 4020003a-3ab9-4292-924a-8f7ecb580351,unstated.furniture,available,23.98,127.98,medium,low,8,namecheap,,,12/09/2026 09:45
 a537c36e-ecdd-4b94-95f4-70cd33ce55c8,treble.furniture,available,23.98,127.98,high,low,6,namecheap,,,14/08/2026 16:41
+f979e7d0-0bfb-4834-983d-f2b5bc288f75,wimbledon.furniture,available,80.2,80.2,medium,low,9,cloudflare,,,28/09/2026 20:48
 c674e991-c93b-451f-9806-b9ac12959e26,boarded.furniture,available,39.99,,high,low,7,name.com,,,
 e30f66ea-0474-4756-900e-1389980cb9bc,unscathed.furniture,available,23.98,127.98,high,low,9,namecheap,,,12/09/2026 12:03
 aeb5bd84-133b-48df-82c1-3cafed1ae396,kleist.furniture,available,27.99,94.99,medium,low,6,namesilo,,,23/09/2026 09:54
 78cf24c0-9155-419a-8111-8798748c7b82,sheep.furniture,available,27.99,94.99,high,low,5,namesilo,,,25/09/2026 10:41
+3e7d38a3-2b5b-48dd-a21c-fe19896ad249,defender.furniture,available,26.5,,high,low,8,unstoppable,,,28/09/2026 18:56
 8d2cc0d2-3f26-4b91-8c2f-4e14d010b78d,palladium.furniture,available,27.99,94.99,high,low,9,namesilo,,,20/09/2026 23:10
 4a50c48f-323f-4d8c-a475-027a7ac819dd,carmichael.furniture,available,23.98,127.98,high,low,10,namecheap,,,28/09/2026 02:01
 76f67784-e0be-4a63-956c-f1b90a6c99fa,unequalled.furniture,available,23.98,127.98,high,low,10,namecheap,,,12/09/2026 09:11
-731a9237-fc98-461d-b391-d38d244d8624,foot.furniture,available,39.99,,high,low,4,name.com,,,
+731a9237-fc98-461d-b391-d38d244d8624,foot.furniture,available,20.9,82.76,high,low,4,spaceship,,,28/09/2026 21:25
 c9505a80-dc38-4b13-9e9f-ecd0fa7c87ca,bosnian.furniture,available,23.98,127.98,high,low,7,namecheap,,,10/08/2026 20:21
-642c19d4-0202-4818-b446-be1e813e6e42,ada.furniture,available,39.99,,high,medium,3,name.com,,,
+642c19d4-0202-4818-b446-be1e813e6e42,ada.furniture,available,80.2,80.2,high,medium,3,cloudflare,,,28/09/2026 18:12
 d3fbb499-3fa8-496f-b18c-827b7d80c28b,scorn.furniture,available,27.99,94.99,medium,low,5,namesilo,,,24/09/2026 17:41
 31433bc6-46a0-47ed-8907-4fb29341329e,bioko.furniture,available,23.98,127.98,medium,low,5,namecheap,,,23/09/2026 18:17
 06e110cf-ffc3-4fc2-ba1d-0160757620f6,shrewsbury.furniture,available,20.9,82.76,medium,low,10,spaceship,,,27/09/2026 19:32
@@ -467,6 +495,7 @@ f1f73e77-bb78-414f-b50e-666abe501266,lightning.furniture,available,27.99,94.99,h
 d4eff587-3ea4-407c-908c-1cbc208cd143,newly.furniture,available,23.98,127.98,high,low,5,namecheap,,,18/08/2026 15:17
 b42f5ee8-24a5-41c6-95f0-5974a9b51472,rutgers.furniture,available,23.98,127.98,high,low,7,namecheap,,,25/09/2026 20:41
 06a2c24c-7bf4-44a7-8e61-d299ab4641a7,royalty.furniture,available,20.9,82.76,high,low,7,spaceship,,,28/09/2026 06:43
+545e71fb-ab9e-4838-9d22-fba272f15338,rating.furniture,available,20.9,82.76,high,low,6,spaceship,,,28/09/2026 19:08
 68e49d1a-1b8c-4d5e-9577-f66e1181d219,lustfully.furniture,available,23.98,127.98,medium,low,9,namecheap,,,15/09/2026 13:12
 70d30757-232d-498a-b8a7-c1e89ca41958,adult.furniture,available,23.98,127.98,high,low,5,namecheap,,,21/09/2026 19:57
 64bac9bc-2bb3-4b05-8c5b-b2786f45981b,cleft.furniture,available,23.98,127.98,high,low,5,namecheap,,,12/08/2026 10:39
@@ -486,6 +515,7 @@ dd418dfe-3306-409e-a9c2-c979bfc75f23,mercuric.furniture,available,23.98,127.98,m
 affaa29d-b75e-43cf-8ed8-6aca4b101839,tradition.furniture,available,39.99,,high,low,9,name.com,,,
 17ecb0b2-c228-4680-a4fa-e8a6a99d07cf,dives.furniture,available,39.99,,high,low,5,name.com,,,
 71dac013-1c74-45c7-88c4-47f69ea9c0e4,albizia.furniture,available,27.99,94.99,high,low,7,namesilo,,,18/09/2026 03:01
+ba656e07-00d6-467b-982e-f653871ffa0f,terrain.furniture,available,21.59,85.01,high,low,7,dynadot,,,28/09/2026 20:36
 9a6956d5-661c-45fc-a8cb-ccae2f62f7a4,stranded.furniture,available,27.99,94.99,high,low,8,namesilo,,,25/09/2026 17:00
 301b24af-e027-428a-bfcb-d8235aeb40ad,glace.furniture,available,23.98,127.98,medium,low,5,namecheap,,,13/08/2026 09:46
 5a6247f6-6dd9-417f-9aec-f90850f383e9,raise.furniture,available,27.99,94.99,high,low,5,namesilo,,,24/09/2026 14:55
@@ -506,7 +536,7 @@ acfad628-75c5-49f8-8968-d979ed537730,trna.furniture,available,23.98,127.98,high,
 2a9b7631-2afc-43c1-9649-d25da568089e,aery.furniture,available,23.98,127.98,high,low,4,namecheap,,,
 f0441639-7ab7-44c7-a077-839c5e428ef6,vaccination.furniture,available,39.99,,high,low,11,name.com,,,
 9d530364-657d-4476-bf7a-a06ee3e3f13f,abashed.furniture,available,23.98,127.98,medium,low,7,namecheap,,,
-74b1c9bb-fbbf-4017-bd7d-cf3f85ba9088,basket.furniture,available,39.99,,high,low,6,name.com,,,
+74b1c9bb-fbbf-4017-bd7d-cf3f85ba9088,basket.furniture,available,20.9,82.76,high,low,6,spaceship,,,29/09/2026 01:26
 d95773c4-5406-4f44-9dd9-d21d2b0fd35e,betting.furniture,available,23.98,127.98,high,low,7,namecheap,,,09/08/2026 18:14
 9acc3ef1-930d-4f99-a4d2-abeba1f92690,yule.furniture,available,27.99,94.99,high,low,4,namesilo,,,24/09/2026 14:52
 083f49f3-ea31-4a18-8fc4-b74843d3ac0f,futurity.furniture,available,23.98,127.98,medium,low,8,namecheap,,,18/08/2026 19:11
@@ -519,6 +549,7 @@ d5b0bdee-49ac-4216-bb8e-1a792fd418b6,decolor.furniture,available,27.99,94.99,med
 3bda948e-7e6d-45b3-bdeb-b04d32ea6f77,friar.furniture,available,23.98,127.98,medium,low,5,namecheap,,,24/08/2026 20:10
 5e1d52bd-86a3-4b4d-a337-448fd976ba62,basle.furniture,available,27.99,94.99,medium,low,5,namesilo,,,22/09/2026 10:14
 9a36560f-0997-4ce1-8a3d-53aacbc84edc,commander.furniture,available,27.99,94.99,high,low,9,namesilo,,,17/09/2026 22:14
+582ff941-b9c6-4e66-b1ac-a71893cf7555,applications.furniture,available,27.99,94.99,medium,low,12,namesilo,,,28/09/2026 23:10
 9e136d2c-bd39-44a9-8b2c-2ffb7fc713f6,leia.furniture,available,39.99,,high,low,4,name.com,,,
 d59218e5-435a-4bef-b32d-a6c7ea3c2563,experience.furniture,available,39.99,,high,low,10,name.com,,,
 2ba7166a-4f61-4b1d-8d5f-4a9980193dbe,vicksburg.furniture,available,23.98,127.98,medium,low,9,namecheap,,,28/09/2026 03:05
@@ -545,12 +576,13 @@ cac8dd75-bd97-49b1-9746-15fc1e8e45fb,jeremy.furniture,available,27.99,94.99,high
 4e275d2f-5ae9-40f5-93fe-0fad3e931315,upriver.furniture,available,23.98,127.98,medium,low,7,namecheap,,,12/09/2026 23:26
 256c900b-75dd-485d-af25-97832873d3fc,rebuild.furniture,available,80.2,80.2,high,low,7,cloudflare,,,28/09/2026 06:58
 8a4260e7-9a29-446a-9fc0-50fb1da6acd4,tractive.furniture,available,23.98,127.98,medium,low,8,namecheap,,,11/09/2026 18:40
-a3dcb8af-9597-43cc-9a68-8c88074a5ba7,accident.furniture,available,39.99,,high,low,8,name.com,,,
+a3dcb8af-9597-43cc-9a68-8c88074a5ba7,accident.furniture,available,80.2,80.2,medium,low,8,cloudflare,,,28/09/2026 17:24
 5d01f451-4236-43f6-b8d0-f95edd809ca9,blood.furniture,available,27.99,94.99,high,low,5,namesilo,,,27/09/2026 03:17
 f3fb2c6d-0e3e-4e64-9e29-8b0befbff671,rockefeller.furniture,available,27.99,94.99,high,low,11,namesilo,,,25/09/2026 12:15
-31df74b5-f347-4e0a-987a-167e73f473b7,academia.furniture,available,23.98,127.98,high,low,8,namecheap,,,23/09/2026 20:23
+31df74b5-f347-4e0a-987a-167e73f473b7,academia.furniture,available,27.99,94.99,high,low,8,namesilo,,,28/09/2026 08:49
 1b635169-22d8-49af-ac1c-fc3b6a62e010,dabbled.furniture,available,39.99,151.99,medium,low,7,name.com,,,13/08/2026 15:12
 27fb374d-0cfb-4850-a8b6-e7e5ec6763d4,emir.furniture,available,39.99,151.99,high,low,4,name.com,,,18/09/2026 17:55
+aef9b2f9-f844-4019-b2ec-2af4a8dc9941,antonia.furniture,available,26.5,,medium,low,7,unstoppable,,,28/09/2026 16:29
 09fe3892-b5de-4bca-89a5-6c551bd2a1d4,berm.furniture,available,27.99,94.99,medium,low,4,namesilo,,,23/09/2026 09:41
 2babcfad-d2c3-4cb9-988e-8c0acdaba183,chunks.furniture,available,27.99,94.99,medium,low,6,namesilo,,,18/09/2026 14:56
 210f4478-8b37-460b-9d15-c7b82d76f794,tiny.furniture,available,27.99,94.99,high,medium,4,namesilo,,,22/09/2026 17:13
@@ -561,6 +593,7 @@ ae4d8a6d-6e35-4c96-9875-bf8a1d87e7cc,xxxiii.furniture,available,23.98,127.98,med
 3ad98cd2-49ab-40d9-99ff-fc2e846b2f2f,fumbling.furniture,available,23.98,127.98,medium,low,8,namecheap,,,11/08/2026 10:05
 dd0f5a1b-0088-49ea-80ff-0c1d7c373b46,peevish.furniture,available,23.98,127.98,medium,low,7,namecheap,,,22/08/2026 10:21
 dfd37a0e-41ab-4764-895a-8f0661381886,detached.furniture,available,27.99,94.99,medium,low,8,namesilo,,,24/09/2026 07:07
+16e17c1e-b856-4638-9478-8b4054f34f4c,lgbt.furniture,available,20.9,82.76,high,low,4,spaceship,,,28/09/2026 17:00
 108331eb-3807-457f-a737-413fdbe2a79c,corvine.furniture,available,23.98,127.98,medium,low,7,namecheap,,,13/08/2026 02:37
 7e295751-ed30-46a2-9d6e-935428452db6,devoured.furniture,available,23.98,127.98,low,low,8,namecheap,,,19/09/2026 23:51
 071ff68d-d861-47ef-b811-fe598f910524,crook.furniture,available,23.98,127.98,medium,low,5,namecheap,,,13/08/2026 06:27
@@ -574,13 +607,14 @@ a22c2968-c1e4-4530-a9c0-a0fb544e7524,perturb.furniture,available,23.98,127.98,me
 eb47ccd1-26e0-461f-86ec-012c8738e78b,uniform.furniture,available,27.99,94.99,high,low,7,namesilo,,,19/09/2026 05:41
 d057c6de-99c2-4d19-a280-001dbd8f1c2f,ascendancy.furniture,available,23.98,127.98,high,low,10,namecheap,,,20/09/2026 13:06
 1697d8cd-fa7f-4f17-96b0-cb1c4d723f6f,hock.furniture,available,23.98,127.98,high,low,4,namecheap,,,09/09/2026 16:33
+2e3d9c1d-a944-4c41-9959-11eb023c5635,overdose.furniture,available,27.99,94.99,medium,low,8,namesilo,,,29/09/2026 02:45
 83e170de-d9a8-42fe-8c3f-bf4b853f7b80,autostrada.furniture,available,27.99,94.99,medium,low,10,namesilo,,,21/09/2026 07:54
 f7234c3c-6087-4caa-94aa-0a112dc6c214,errors.furniture,available,27.99,94.99,medium,low,6,namesilo,,,17/09/2026 17:09
 8d9edef6-3f71-4378-a099-710990fdb058,multiform.furniture,available,23.98,127.98,high,low,9,namecheap,,,03/09/2026 10:41
 0a6b6e79-36b2-4b7e-87d2-80cac395dfe2,liquefied.furniture,available,23.98,127.98,medium,low,9,namecheap,,,23/08/2026 22:01
 d65463ff-4467-48f2-bcea-ed2e4fb6103f,bawl.furniture,available,27.99,94.99,medium,low,4,namesilo,,,23/09/2026 06:25
 bb3540ec-add9-4c56-9102-70f655133fad,lapse.furniture,available,27.99,94.99,high,low,5,namesilo,,,27/09/2026 14:20
-8ff0b28b-427a-45bb-8ed1-0327e1e5e680,wall.furniture,available,27.99,94.99,high,low,4,namesilo,,,23/09/2026 16:20
+8ff0b28b-427a-45bb-8ed1-0327e1e5e680,wall.furniture,available,27.99,94.99,high,low,4,namesilo,,,28/09/2026 08:42
 dc86e154-e602-4dac-a195-10219d49583b,filthy.furniture,available,23.98,127.98,high,low,6,namecheap,,,13/08/2026 08:46
 ffd5bff0-fda9-4f38-b7fa-95db300d0627,invention.furniture,available,23.98,127.98,high,low,9,namecheap,,,28/09/2026 02:09
 5b9cdd1e-c69b-4250-ace7-e5698c259ae9,decrepit.furniture,available,23.98,127.98,medium,low,8,namecheap,,,13/08/2026 05:40
@@ -598,14 +632,14 @@ a5b2d8a5-802e-41d0-b653-ccdd60807d5f,hectic.furniture,available,23.98,127.98,hig
 873a7452-3712-4fc5-ba5f-36ad1e55819b,eugenic.furniture,available,23.98,127.98,medium,low,7,namecheap,,,17/08/2026 14:11
 9d1f08be-0d77-4fc0-8ed2-a03514a3f8c9,modernist.furniture,available,27.99,94.99,high,low,9,namesilo,,,27/09/2026 04:47
 fe576453-21bb-4155-8124-e6bf1bc0545f,reaction.furniture,available,23.98,127.98,high,low,8,namecheap,,,24/09/2026 14:16
-fb37734c-2ae4-4cb4-a94c-e288ef1d449e,sailor.furniture,available,39.99,,high,low,6,name.com,,,
+fb37734c-2ae4-4cb4-a94c-e288ef1d449e,sailor.furniture,available,20.9,82.76,high,low,6,spaceship,,,29/09/2026 03:02
 02d2e9a0-4e9a-49ab-8d98-839642cbccf6,credibly.furniture,available,23.98,127.98,medium,low,8,namecheap,,,14/09/2026 09:26
 df950776-a736-4345-b8d9-37c3afb3acec,righted.furniture,available,27.99,94.99,medium,low,7,namesilo,,,20/09/2026 15:58
 752c37b1-34f2-4514-bbea-7f6085d0d2bf,anodic.furniture,available,23.98,127.98,high,low,6,namecheap,,,
 91328778-55ad-4748-828c-3ccf0da161f9,restive.furniture,available,23.98,127.98,medium,low,7,namecheap,,,15/08/2026 09:28
 b1190413-a217-40c8-8ae1-a424bff18b59,martial.furniture,available,23.98,127.98,high,low,7,namecheap,,,24/08/2026 16:36
 563541bd-37de-4917-837d-8a70143c131c,scary.furniture,available,23.98,127.98,high,low,5,namecheap,,,12/08/2026 05:23
-66ee57ec-cf1d-4e14-b1b4-dc9e622e0423,machines.furniture,available,27.99,94.99,medium,low,8,namesilo,,,27/09/2026 02:01
+66ee57ec-cf1d-4e14-b1b4-dc9e622e0423,machines.furniture,available,80.2,80.2,medium,low,8,cloudflare,,,29/09/2026 03:31
 e51b891b-087a-43f2-aea1-bc8338a0f071,stealthy.furniture,available,23.98,127.98,medium,low,8,namecheap,,,18/08/2026 19:00
 e989a3a6-c8fa-45f3-b462-42742a116aa0,arrays.furniture,available,27.99,94.99,medium,low,6,namesilo,,,20/09/2026 09:17
 addde744-3cc9-4935-920d-2b232f64dba7,molecules.furniture,available,39.99,,medium,low,9,name.com,,,
@@ -619,18 +653,21 @@ c2d890bb-d2e0-4537-b26c-5bf7e3831693,realistic.furniture,available,23.98,127.98,
 a54f183e-10fe-4069-b148-05d335e7490a,dissimilar.furniture,available,23.98,127.98,medium,low,10,namecheap,,,14/08/2026 12:48
 8ffdca06-f7ce-481b-977e-32e58fa3138f,alice.furniture,available,27.99,94.99,high,medium,5,namesilo,,,25/09/2026 13:23
 195248bf-e659-429b-ae87-6ba580cb2142,establishment.furniture,available,39.99,,high,low,13,name.com,,,
+b5f59333-b878-463f-85f1-96651feea18c,margin.furniture,available,27.99,94.99,high,low,6,namesilo,,,29/09/2026 01:09
 ee2ce3cd-38d9-4c1a-a4f3-6ca4efb7c09f,automatically.furniture,available,20.9,82.76,medium,low,13,spaceship,,,28/09/2026 07:07
-51fb596b-c1c7-44e5-8003-7e78b24540b4,pharmacist.furniture,available,39.99,,high,low,10,name.com,,,
+51fb596b-c1c7-44e5-8003-7e78b24540b4,pharmacist.furniture,available,20.9,82.76,high,low,10,spaceship,,,28/09/2026 21:46
 a9617ad2-ea66-4908-9c09-f05c818e9271,passed.furniture,available,39.99,,medium,low,6,name.com,,,
 22133c75-b429-44a3-bfea-c7a40c63c8b0,penal.furniture,available,23.98,127.98,medium,low,5,namecheap,,,08/09/2026 13:51
+cca3d46d-3693-4c10-a953-5b25ee0f6dde,newark.furniture,premium,66.5,,medium,low,6,unstoppable,,,28/09/2026 19:59
 412e5f6a-592a-465e-80fc-424ccc153d93,katabatic.furniture,available,23.98,127.98,medium,low,9,namecheap,,,11/08/2026 20:41
 8813914f-6208-4f31-a2f1-4b3af04927c8,opposed.furniture,available,23.98,127.98,high,low,7,namecheap,,,04/09/2026 16:45
 be034430-58e4-4ab2-8d08-44597a3dee74,somersault.furniture,available,23.98,127.98,high,low,10,namecheap,,,18/08/2026 08:25
 b34cfb67-5d1c-48ce-a539-413041ffaeaa,schoolbook.furniture,available,27.99,94.99,medium,low,11,namesilo,,,19/09/2026 07:03
-eed95b00-1903-4a7f-a269-276e158b264f,clearly.furniture,available,39.99,,high,low,7,name.com,,,
+eed95b00-1903-4a7f-a269-276e158b264f,clearly.furniture,available,26.5,,high,low,7,unstoppable,,,28/09/2026 13:55
 be1f0c74-f03f-4733-bc96-603aa93c9c77,holman.furniture,available,27.99,94.99,high,low,6,namesilo,,,28/09/2026 04:15
 26db9f80-88b2-4607-820d-10320a2383db,brutal.furniture,available,23.98,127.98,medium,low,6,namecheap,,,08/08/2026 15:45
 80a2c1aa-7778-4070-931a-ebc6fe6c4bf6,elias.furniture,available,39.99,,high,low,5,name.com,,,
+2c2bb6fe-f31e-41ae-bcb5-35c0826e864e,probe.furniture,available,20.9,82.76,high,low,5,spaceship,,,28/09/2026 10:09
 1de082ad-09e2-46b9-bdac-d13c5666161f,accented.furniture,available,23.98,127.98,medium,low,8,namecheap,,,
 1a82ef0d-c463-454c-8a93-b113b63bcddd,gentle.furniture,available,23.98,127.98,high,low,6,namecheap,,,06/08/2026 19:29
 e36936fa-730e-44de-9216-6432cd0bf9d3,chilly.furniture,available,23.98,127.98,high,low,6,namecheap,,,12/08/2026 05:30
@@ -641,7 +678,7 @@ e36936fa-730e-44de-9216-6432cd0bf9d3,chilly.furniture,available,23.98,127.98,hig
 bd103155-4b62-444a-8d12-cb3be069f118,tactual.furniture,available,23.98,127.98,medium,low,7,namecheap,,,21/08/2026 00:04
 5c28972b-4a24-43e6-babf-7008c5735752,capsular.furniture,available,23.98,127.98,medium,low,8,namecheap,,,08/09/2026 04:10
 f1e74899-9b91-4e37-b948-c3102843fb79,airway.furniture,available,27.99,94.99,high,low,6,namesilo,,,17/09/2026 22:13
-a961a41a-544e-48d8-b283-3c0db4f0ed96,blob.furniture,available,39.99,,high,low,4,name.com,,,
+a961a41a-544e-48d8-b283-3c0db4f0ed96,blob.furniture,available,26.5,,medium,low,4,unstoppable,,,29/09/2026 02:58
 f0e05b09-f271-4398-9a90-ce83d8469b89,ilama.furniture,available,27.99,94.99,medium,low,5,namesilo,,,19/09/2026 10:33
 15d051fc-c17a-4cee-84be-0b4829dd045b,acolyte.furniture,available,23.98,127.98,medium,low,7,namecheap,,,17/09/2026 02:00
 adcff2f6-62ab-4324-a06f-e7b5348cf770,overside.furniture,available,23.98,127.98,medium,low,8,namecheap,,,15/09/2026 18:29
@@ -651,11 +688,12 @@ adcff2f6-62ab-4324-a06f-e7b5348cf770,overside.furniture,available,23.98,127.98,m
 6636afda-c8e0-40eb-a644-90240486f43c,unbelievable.furniture,available,27.99,94.99,high,low,12,namesilo,,,28/09/2026 07:08
 fb53fe10-0350-43ea-b0f0-ee662050e7a7,abed.furniture,available,23.98,127.98,medium,low,4,namecheap,,,13/09/2026 16:13
 b58d3132-7722-4f74-a0ac-7802844159b0,kind.furniture,available,27.99,94.99,high,low,4,namesilo,,,25/09/2026 12:40
-d822e99d-34c2-4468-a353-1175f7a0f0cb,slowness.furniture,available,39.99,,medium,low,8,name.com,,,
+d822e99d-34c2-4468-a353-1175f7a0f0cb,slowness.furniture,available,20.9,82.76,medium,low,8,spaceship,,,28/09/2026 23:49
 adf6fee0-36fb-4c93-9012-8233d13a2cfc,commotion.furniture,available,23.98,127.98,high,low,9,namecheap,,,24/09/2026 16:36
 4e53afae-7e29-4252-a258-f12426d5ae36,lustrous.furniture,available,23.98,127.98,high,low,8,namecheap,,,11/08/2026 11:00
 40a93963-5792-4ae7-9ac4-ba000de10e37,manila.furniture,premium,78.54,78.54,high,low,6,namesilo,,,
 a1999dc0-9769-400f-86ec-6f65375d3174,nara.furniture,available,27.99,94.99,medium,low,4,namesilo,,,28/09/2026 06:27
+733857c6-8981-4c6a-b946-5739540145ca,utc.furniture,available,20.9,82.76,medium,low,3,spaceship,,,28/09/2026 09:27
 c9190b3b-0da6-42ec-b729-475e85b647ba,acerbity.furniture,available,27.99,94.99,medium,low,8,namesilo,,,16/09/2026 23:41
 8a15f239-dcf3-4565-b75b-55a81783741d,cramped.furniture,available,23.98,127.98,medium,low,7,namecheap,,,13/08/2026 04:47
 186731fd-fec8-4df8-bfc4-77a11b5602b2,angina.furniture,available,27.99,94.99,medium,low,6,namesilo,,,19/09/2026 06:08
@@ -680,6 +718,7 @@ ab2ba733-88d6-4291-acd9-9bad35c90619,bedclothes.furniture,available,23.98,127.98
 4ad0166b-c22b-404d-9795-94a14690b6c2,mixologist.furniture,available,27.99,94.99,medium,low,10,namesilo,,,22/09/2026 06:27
 279d8017-cc3f-478c-a7d0-16a7f8de9298,frustrated.furniture,available,23.98,127.98,medium,low,10,namecheap,,,24/09/2026 10:57
 f26e94a5-9b0c-48e5-aae0-ab250515b4d9,autopsy.furniture,available,27.99,94.99,high,low,7,namesilo,,,21/09/2026 07:38
+5c695bc0-0aff-41d7-8676-5a1185af9a10,exercises.furniture,available,26.5,,medium,low,9,unstoppable,,,28/09/2026 17:18
 8fd63e92-c68b-4f2f-b56a-8ba165e01868,erasable.furniture,available,23.98,127.98,medium,low,8,namecheap,,,15/08/2026 14:16
 dbf2e921-a245-45ab-95c8-5e498b721337,slant.furniture,available,23.98,127.98,high,low,5,namecheap,,,22/08/2026 22:07
 3e34a0c7-f3f4-45fe-9766-8395c61d4bc0,sib.furniture,available,23.98,127.98,medium,low,3,namecheap,,,12/08/2026 15:48
@@ -687,19 +726,22 @@ dbf2e921-a245-45ab-95c8-5e498b721337,slant.furniture,available,23.98,127.98,high
 d373a531-de5b-470d-85d7-971617dedf4d,melodic.furniture,available,23.98,127.98,high,low,7,namecheap,,,24/08/2026 19:41
 ffc0b21e-33d1-429d-b1fe-c81bb6b0e393,responds.furniture,available,27.99,94.99,medium,low,8,namesilo,,,20/09/2026 08:24
 70e33cb9-8c5b-45a3-8ea9-0815abbb8c6c,ferguson.furniture,available,23.98,127.98,high,low,8,namecheap,,,25/09/2026 17:55
-acfe8520-62da-461b-9128-683baff490e8,background.furniture,available,39.99,,high,low,10,name.com,,,
+acfe8520-62da-461b-9128-683baff490e8,background.furniture,available,26.5,,high,low,10,unstoppable,,,29/09/2026 00:20
 c98d9bbd-48cd-41d6-bbd0-496214eb866e,dreamy.furniture,available,23.98,127.98,high,low,6,namecheap,,,14/08/2026 18:48
 54bb1177-ff3d-4ed5-b97d-e175010bb3f8,magnetised.furniture,available,23.98,127.98,medium,low,10,namecheap,,,24/08/2026 13:06
 93f5c24f-61ca-42fa-b43d-8c67f984c7e5,alkyd.furniture,available,23.98,127.98,medium,low,5,namecheap,,,18/09/2026 08:33
 af5230f9-8c23-464f-b17b-e9149809b1ba,bilges.furniture,available,27.99,94.99,medium,low,6,namesilo,,,23/09/2026 15:54
+5281292e-3b7d-4fb1-9bad-24ffc8043134,sensitivity.furniture,available,23.98,127.98,high,low,11,namecheap,,,28/09/2026 12:30
 a200ef2f-bcfd-4063-8539-aa80a0ccea40,amputee.furniture,available,27.99,94.99,medium,low,7,namesilo,,,18/09/2026 23:54
 66e62ed4-2cb9-470a-b586-c31b21158f10,taxation.furniture,available,39.99,,high,low,8,name.com,,,
 bba42e22-e50e-4ff7-b328-1a8447f16363,repeatable.furniture,available,23.98,127.98,medium,low,10,namecheap,,,09/09/2026 09:08
 9c288abc-d48e-4076-9823-559e76d1b5b2,cruciate.furniture,available,23.98,127.98,medium,low,8,namecheap,,,13/08/2026 08:40
 cc68cfc8-52e9-401e-a3b3-c393eb869694,ceric.furniture,available,23.98,127.98,medium,low,5,namecheap,,,12/08/2026 00:39
 c39be1d1-9077-473d-bf86-47d88799116a,regulatory.furniture,available,23.98,127.98,high,low,10,namecheap,,,09/09/2026 13:17
+5b12ab50-4b1c-4f50-8b68-8a437104a109,practise.furniture,available,27.99,94.99,high,low,8,namesilo,,,29/09/2026 01:53
 fb040eb2-d8ff-4488-9d56-3520b10d22ed,outing.furniture,available,39.99,,high,low,6,name.com,,,
 f44040a0-c88d-4026-b374-887001454178,beshrew.furniture,available,39.99,151.99,medium,low,7,name.com,,,13/08/2026 16:19
+7696f2f5-4128-4732-8ad4-e776fb5fecc8,stance.furniture,available,80.2,80.2,high,low,6,cloudflare,,,28/09/2026 20:34
 4ab9497f-bc23-4def-a4ea-a28ad260dc47,prolific.furniture,available,27.99,94.99,high,low,8,namesilo,,,27/09/2026 07:21
 7e58e96c-3712-45af-a176-f067d6a6c78b,fop.furniture,available,39.99,151.99,high,low,3,name.com,,,13/08/2026 17:09
 2badf12f-47bd-494c-b920-5c4b1405d30d,havre.furniture,available,27.99,94.99,medium,low,5,namesilo,,,28/09/2026 03:56
@@ -712,16 +754,17 @@ f44040a0-c88d-4026-b374-887001454178,beshrew.furniture,available,39.99,151.99,me
 86091817-2a7f-45c0-8043-4c156ca87639,ingenuous.furniture,available,23.98,127.98,medium,low,9,namecheap,,,06/08/2026 23:41
 ad7db657-e26b-4f2c-b80d-00758ecc68f4,beech.furniture,available,23.98,127.98,high,low,5,namecheap,,,23/09/2026 00:02
 8244345c-e534-4984-a67f-684bd16cca19,methodical.furniture,available,23.98,127.98,high,low,10,namecheap,,,24/08/2026 21:56
-c4acedf6-2054-4484-9065-887195dd0a4f,attack.furniture,available,27.99,94.99,high,low,6,namesilo,,,23/09/2026 17:14
+c4acedf6-2054-4484-9065-887195dd0a4f,attack.furniture,available,21.11,82.9,high,low,6,porkbun,,,28/09/2026 08:45
 ed109f1c-655b-4354-b6c0-688b0d3fad25,corporeal.furniture,available,23.98,127.98,medium,low,9,namecheap,,,13/08/2026 01:54
 41ae7973-694e-4332-8811-98941e861741,notice.furniture,available,23.98,127.98,high,low,6,namecheap,,,24/09/2026 16:29
 0a74dc3a-a810-4a79-a0d5-b6ab228e7139,cactus.furniture,available,27.99,94.99,high,low,6,namesilo,,,24/09/2026 11:36
+3f8134f0-2a25-4536-897a-3581abeae655,movements.furniture,available,80.2,80.2,low,low,9,cloudflare,,,28/09/2026 12:36
 b6b0ce04-f885-4b54-9791-137c22351f36,flawless.furniture,available,23.98,127.98,high,low,8,namecheap,,,18/08/2026 07:19
 cdf5bb86-1785-4842-ad57-21fb61029783,recent.furniture,available,27.99,94.99,high,low,6,namesilo,,,27/09/2026 10:49
 d20c1328-0689-4649-8cac-f07285315ea0,gail.furniture,available,39.99,,high,low,4,name.com,,,
 ebe42603-c5d9-4cfc-a78c-96f25a067812,decolour.furniture,available,27.99,94.99,medium,low,8,namesilo,,,24/09/2026 05:11
 936149b3-27f4-4076-84b6-e04851815028,provide.furniture,available,39.99,,high,low,7,name.com,,,
-0ebc217b-5d4a-4739-be27-8109d9392865,accurately.furniture,available,39.99,,high,low,10,name.com,,,
+0ebc217b-5d4a-4739-be27-8109d9392865,accurately.furniture,available,26.5,,high,low,10,unstoppable,,,28/09/2026 11:42
 b77fc0bd-8d6c-4a6d-98a6-b41307c67172,afghani.furniture,available,23.98,127.98,medium,low,7,namecheap,,,
 a89fe2ed-a11d-421e-9664-32e0d6daf110,spattered.furniture,available,39.99,151.99,medium,low,9,name.com,,,13/08/2026 15:15
 32e452b7-a4ab-4c29-a0b0-b91a7a7c8c5d,soddy.furniture,available,23.98,127.98,medium,low,5,namecheap,,,17/09/2026 09:26
@@ -749,7 +792,7 @@ ed03cf16-72c5-4d9a-a201-9d37f46efad9,monistic.furniture,available,23.98,127.98,m
 7ea5a0b5-5f4c-4376-a2ea-fb6fa22943b8,demanding.furniture,available,23.98,127.98,medium,low,9,namecheap,,,14/08/2026 01:06
 4aee68ba-f6f5-4987-8f32-e9542692fee1,arng.furniture,available,27.99,94.99,medium,low,4,namesilo,,,20/09/2026 08:02
 89900631-1670-4a24-8698-b358a2abed7f,phlegmatic.furniture,available,23.98,127.98,medium,low,10,namecheap,,,08/09/2026 18:53
-845f304b-3efc-4815-a188-1b08c623a678,axe.furniture,available,39.99,,high,low,3,name.com,,,
+845f304b-3efc-4815-a188-1b08c623a678,axe.furniture,available,20.9,82.76,high,low,3,spaceship,,,28/09/2026 23:50
 c18042e6-eed4-4968-8c09-89ccbdf9919e,crooner.furniture,available,23.98,127.98,medium,low,7,namecheap,,,21/09/2026 22:42
 3c439428-bff1-4e1f-a80b-d77f079284e4,baptistry.furniture,available,27.99,94.99,medium,low,9,namesilo,,,22/09/2026 03:28
 b246d6cf-1175-45ca-b030-bb246fef3786,chap.furniture,available,27.99,94.99,medium,low,4,namesilo,,,24/09/2026 06:13
@@ -781,12 +824,16 @@ b73e483a-e112-489e-86e3-7632fef20dd4,magnate.furniture,available,27.99,94.99,hig
 0296a4d9-9450-44dd-bf96-d1870cc6ee0b,algae.furniture,available,27.99,94.99,high,low,5,namesilo,,,18/09/2026 06:48
 a9bc7f0c-34a2-4bbb-9ee9-6d6203756874,berlioz.furniture,available,27.99,94.99,medium,low,7,namesilo,,,23/09/2026 09:39
 1fa6ff1d-cef8-4746-95c3-4a153ef78e9d,ccc.furniture,available,23.98,127.98,high,medium,3,namecheap,,,
+501d3399-519a-45c1-ad51-b628565c6119,thayer.furniture,available,21.59,85.01,medium,low,6,dynadot,,,28/09/2026 08:07
+bdd9b305-13ab-4026-834f-6fceea5dbf8b,sacrifices.furniture,available,80.2,80.2,low,low,10,cloudflare,,,28/09/2026 17:47
 15cc83cd-4ddf-4cc5-af79-d1e633c53cf0,angus.furniture,available,27.99,94.99,high,low,5,namesilo,,,16/09/2026 15:11
 bf42ea02-c3df-4c62-9aea-67f447c143f4,flexing.furniture,available,39.99,,high,low,7,name.com,,,
 608a408c-334d-45bc-8ad0-5d76f1b9d03f,divinity.furniture,available,23.98,127.98,high,low,8,namecheap,,,24/09/2026 21:26
 92efeda3-14b6-4315-8ca9-37d6faa0b82b,wavelike.furniture,available,23.98,127.98,medium,low,8,namecheap,,,13/08/2026 06:56
 68d1a533-7d41-4c77-8aa6-2519ebf13e9e,contempt.furniture,available,39.99,,medium,low,8,name.com,,,
+c8c1f74c-c9ac-47b7-9723-562979159dd5,trujillo.furniture,available,27.99,94.99,medium,low,8,namesilo,,,28/09/2026 16:38
 f689afdc-50ba-4c68-bc04-48201489466f,weapons.furniture,available,23.98,127.98,medium,low,7,namecheap,,,25/09/2026 17:10
+447a704b-021b-4f8f-9aae-bba3b4458ef7,longing.furniture,available,20.9,82.76,medium,low,7,spaceship,,,28/09/2026 19:43
 3234528d-c0fa-4e44-9b64-f3306b209bfe,diagonal.furniture,available,23.98,127.98,medium,low,8,namecheap,,,07/08/2026 04:07
 df610294-b6b4-459b-8354-a99753e9af17,prickly.furniture,available,23.98,127.98,medium,low,7,namecheap,,,08/08/2026 17:34
 8d6ff9d5-c176-4ca4-8c59-3353a02fb247,brick.furniture,available,23.98,127.98,high,low,5,namecheap,,,27/09/2026 11:59
@@ -795,7 +842,7 @@ b01d9572-23fb-4c2b-91bb-88c0ba1fd7ef,mahoe.furniture,available,27.99,94.99,mediu
 a6126b4a-a21d-4ac2-ae37-f9676ecdf875,unlawful.furniture,available,23.98,127.98,medium,low,8,namecheap,,,21/08/2026 19:54
 f7b10308-b0df-4434-90a2-fe68930ed5c3,sesotho.furniture,available,27.99,94.99,medium,low,7,namesilo,,,22/09/2026 13:00
 444fcf8c-b458-4438-a87f-8cb25287e4aa,pressing.furniture,available,27.99,94.99,high,low,8,namesilo,,,27/09/2026 05:26
-fe6e47ba-a2b7-4821-bc88-6df10abcfd09,screen.furniture,available,27.99,94.99,high,low,6,namesilo,,,23/09/2026 16:32
+fe6e47ba-a2b7-4821-bc88-6df10abcfd09,screen.furniture,available,20.9,82.76,high,low,6,spaceship,,,28/09/2026 08:44
 4a6b0e63-499a-4fa0-92ce-baf46d2f9d07,keyserver.furniture,available,39.99,,medium,low,10,name.com,,,
 08124d04-f823-45df-8509-3e869a2b8949,kvetch.furniture,available,23.98,127.98,medium,low,6,namecheap,,,08/09/2026 20:36
 05c9b080-a1c6-46bf-b136-4006259f54be,peachy.furniture,available,23.98,127.98,high,low,6,namecheap,,,08/08/2026 12:41
@@ -803,7 +850,7 @@ fe6e47ba-a2b7-4821-bc88-6df10abcfd09,screen.furniture,available,27.99,94.99,high
 d538a3d9-b275-49bc-b13a-728d6b291f5d,beloved.furniture,available,23.98,127.98,high,low,7,namecheap,,,09/08/2026 13:47
 cf58ab11-89ed-4586-81d7-4f4809edfd09,hoping.furniture,available,27.99,94.99,high,low,6,namesilo,,,25/09/2026 11:50
 6c16fa12-b3aa-468d-9ff6-7a5126a0eb03,address.furniture,available,27.99,94.99,high,low,7,namesilo,,,28/09/2026 06:48
-c80e6d03-7a74-4460-9985-168850490d21,young.furniture,available,39.99,,high,low,5,name.com,,,
+c80e6d03-7a74-4460-9985-168850490d21,young.furniture,available,27.99,94.99,high,low,5,namesilo,,,28/09/2026 09:49
 8f11bb83-2382-4b9a-8f29-1b096bc8eab3,stellate.furniture,available,23.98,127.98,high,low,8,namecheap,,,09/09/2026 09:34
 e522507b-3937-4ece-8088-20619b680331,carolina.furniture,premium,200.5,,high,low,8,unstoppable,,,28/09/2026 01:35
 ff2aea86-d0a9-4862-971e-2bbb52dc9105,sprawl.furniture,available,23.98,127.98,medium,low,6,namecheap,,,10/09/2026 16:41
@@ -824,16 +871,18 @@ ee7bc9a9-77af-42ee-a77b-a2f7ea9966f0,viewable.furniture,available,27.99,94.99,hi
 91b99ca6-d5d3-4c65-b671-077ab8e0d0c9,unkempt.furniture,available,23.98,127.98,medium,low,7,namecheap,,,12/09/2026 14:07
 57cf6e54-02a1-421d-918a-9eabe3ba1ee9,disassemble.furniture,available,39.99,,medium,low,11,name.com,,,
 75f4f9eb-00f9-4820-853d-2c637b26bb6d,posterior.furniture,available,23.98,127.98,medium,low,9,namecheap,,,09/08/2026 11:12
+6186cf80-cf9f-4a2e-b723-5c28a7432903,novi.furniture,available,21.59,85.01,high,low,4,dynadot,,,28/09/2026 21:12
 dba78b06-b3b0-44ab-b1ef-ff3395c89d59,serotonin.furniture,available,27.99,94.99,high,low,9,namesilo,,,16/09/2026 12:37
 b6f22861-12fc-43a1-b288-01e81547344d,health.furniture,available,26.5,94.99,high,medium,6,unstoppable,,,28/09/2026 03:06
-55ed2bb1-178e-4be5-8d89-4323cb1ee48c,aboard.furniture,available,27.99,94.99,medium,low,6,namesilo,,,27/09/2026 02:14
+b70a3da8-7289-45b3-aa34-58858b4ef42a,lucknow.furniture,available,27.99,94.99,medium,low,7,namesilo,,,28/09/2026 19:45
+55ed2bb1-178e-4be5-8d89-4323cb1ee48c,aboard.furniture,available,21.59,85.01,high,low,6,dynadot,,,28/09/2026 11:33
 5bdad1c2-c1c5-4c25-9aef-13d427ee3d32,forbes.furniture,available,23.98,127.98,high,low,6,namecheap,,,25/09/2026 14:28
 ae4b8289-3b59-43de-8f05-d4e216640144,stomach.furniture,available,27.99,94.99,high,low,7,namesilo,,,16/09/2026 14:47
 fea9a83a-281b-473b-aa63-fadc0685d92c,dearie.furniture,available,39.99,151.99,high,low,6,name.com,,,13/08/2026 18:19
 fcb4c866-3ff8-4981-ab0d-11f0d995a1b7,literal.furniture,available,27.99,94.99,high,low,7,namesilo,,,25/09/2026 13:58
 06641bd2-69dc-4c36-8218-4692ddf72668,accra.furniture,available,27.99,94.99,high,low,5,namesilo,,,16/09/2026 23:13
 ee1fbf0c-6ace-4d79-bde1-00a04274bb7a,prints.furniture,available,27.99,94.99,high,low,6,namesilo,,,17/09/2026 13:53
-6f0fb270-fac6-4991-820d-58c9f087b58c,pilot.furniture,available,39.99,,high,low,5,name.com,,,
+6f0fb270-fac6-4991-820d-58c9f087b58c,pilot.furniture,available,80.2,80.2,high,medium,5,cloudflare,,,28/09/2026 19:40
 a5bc5467-acd8-406f-88d8-135ef72440c5,implied.furniture,available,39.99,,high,low,7,name.com,,,
 1615c290-a5ab-46e9-b88a-3d8333599f60,ytterbium.furniture,available,27.99,94.99,medium,low,9,namesilo,,,20/09/2026 23:38
 76c2e1cb-ef9b-489d-89d4-ed3d98389a9f,relatives.furniture,available,23.98,127.98,medium,low,9,namecheap,,,27/09/2026 10:25
@@ -877,6 +926,7 @@ ae4ac53a-421e-47b8-a659-cf847d9e7d37,baster.furniture,available,27.99,94.99,medi
 42131562-46e4-40bf-9603-09b5af9879bc,recognizable.furniture,available,39.99,,high,low,12,name.com,,,
 bd2c8e92-e14a-4f8b-86b8-6b73ece9ac78,castaway.furniture,available,23.98,127.98,high,low,8,namecheap,,,04/09/2026 19:05
 60171cd4-ac02-4884-933c-efc7b5e5d5e0,arranging.furniture,available,27.99,94.99,high,low,9,namesilo,,,20/09/2026 08:47
+9acee5b4-59a9-4669-98a9-f26ab66718b9,valve.furniture,available,27.99,94.99,high,low,5,namesilo,,,28/09/2026 11:02
 f514dad4-8b2e-4b2f-8d6c-f20f59966078,specks.furniture,available,27.99,94.99,medium,low,6,namesilo,,,20/09/2026 10:46
 f7a988e6-e3fe-4ad5-a345-4c4e54161781,kansas.furniture,premium,78.54,78.54,high,low,6,namesilo,,,
 4a66f507-a1cb-4138-ac7c-9a828e440f3f,unnerved.furniture,available,23.98,127.98,medium,low,8,namecheap,,,12/09/2026 15:54
@@ -887,6 +937,7 @@ b951b5f1-e4fb-4c74-bb00-b3ce7cdb4c48,gains.furniture,available,23.98,127.98,medi
 41245774-5b28-43b0-8e31-d3ea4e70cb1e,claudia.furniture,available,27.99,94.99,high,low,7,namesilo,,,25/09/2026 13:43
 6f68bd86-d895-4be2-a3d8-f4ce47ef2bd0,whitener.furniture,available,27.99,94.99,medium,low,8,namesilo,,,24/09/2026 03:50
 87e72808-f621-421f-9ba6-42249429e2fb,antipode.furniture,available,27.99,94.99,medium,low,8,namesilo,,,19/09/2026 14:58
+39638f65-670e-443a-93f0-7fef2bbf7259,bobby.furniture,available,27.99,94.99,high,low,5,namesilo,,,28/09/2026 13:33
 c6eac1a6-82f1-469b-8281-7d1d5b248cb4,pantheist.furniture,available,23.98,127.98,medium,low,9,namecheap,,,05/09/2026 01:06
 a5b4a314-ee60-498a-aa3d-bc0fe79d22da,candid.furniture,available,23.98,127.98,high,low,6,namecheap,,,11/08/2026 16:40
 d850a37f-1994-424e-ac9b-fd4638cf1ff3,shrink.furniture,available,26.5,,high,low,6,unstoppable,,,28/09/2026 01:56
@@ -896,9 +947,10 @@ aa4082b2-4575-4193-81a0-9503e705258e,oil.furniture,available,27.99,94.99,high,lo
 46ad9bb2-a843-459e-8548-6c5b3d6848ab,fathomable.furniture,available,23.98,127.98,medium,low,10,namecheap,,,17/08/2026 23:40
 7450a842-ae9d-4977-9ae9-c4c18cfa1de1,lend.furniture,available,39.99,,high,low,4,name.com,,,
 accdb8aa-b4d5-416a-ae48-96169b6396bb,multicolor.furniture,available,23.98,127.98,high,low,10,namecheap,,,03/09/2026 10:35
+301695c4-7099-455e-aa3c-dd4440733e3b,significance.furniture,available,20.9,82.76,high,low,12,spaceship,,,28/09/2026 08:20
 df368545-dc49-43be-9b0d-9a13d7ab4527,nostrils.furniture,available,39.99,,medium,low,8,name.com,,,
 a24e8164-1356-4723-92ae-d973c6ae445b,incurious.furniture,available,23.98,127.98,medium,low,9,namecheap,,,22/08/2026 02:08
-41351bfc-ae26-43aa-9552-b3bb10d1bebb,commonly.furniture,available,39.99,,high,low,8,name.com,,,
+41351bfc-ae26-43aa-9552-b3bb10d1bebb,commonly.furniture,available,21.11,82.9,medium,low,8,porkbun,,,28/09/2026 14:12
 f634bdd5-3be7-4798-b61e-4f9b516a2898,pierre.furniture,available,27.99,94.99,high,low,6,namesilo,,,24/09/2026 12:24
 e41ca9c5-c99a-4bd2-b107-ecf0aa880238,relocated.furniture,available,23.98,127.98,medium,low,9,namecheap,,,09/09/2026 13:39
 a545ba04-292f-4728-96cb-e58fd29bc9f3,attalea.furniture,available,27.99,94.99,medium,low,7,namesilo,,,21/09/2026 01:14
@@ -907,8 +959,10 @@ a545ba04-292f-4728-96cb-e58fd29bc9f3,attalea.furniture,available,27.99,94.99,med
 356bcbff-a4bb-4939-a36d-c190a4b170ab,prosy.furniture,available,23.98,127.98,medium,low,5,namecheap,,,08/09/2026 12:32
 a9fd78a6-8e74-496e-8835-96c06203e73a,honesty.furniture,available,20.9,82.76,high,low,7,spaceship,,,28/09/2026 06:00
 4b7d6c91-7c93-4665-94fb-cedb6e94e0d1,adams.furniture,available,27.99,94.99,high,low,5,namesilo,,,17/09/2026 06:17
+a2b119df-707c-46fb-a0c0-61f958c51a0a,intern.furniture,available,21.11,82.9,high,low,6,porkbun,,,28/09/2026 14:28
 bce9d137-a085-4d0b-9cfb-b2e426f18709,instruct.furniture,available,39.99,,high,low,8,name.com,,,
 28f2172c-8dd0-48ee-a8cf-6a9ca1a424af,gamers.furniture,available,27.99,94.99,high,low,6,namesilo,,,20/09/2026 23:00
+551bbec3-246e-438c-adb3-19a71d8af7d1,sms.furniture,available,80.2,80.2,high,medium,3,cloudflare,,,28/09/2026 11:46
 6ed40632-e7f1-4610-b7b6-bf23e03d86af,changeling.furniture,available,23.98,127.98,medium,low,10,namecheap,,,21/08/2026 20:30
 cfdc29ef-b01d-4ad5-af6e-0a5098b86e5c,positivity.furniture,available,23.98,127.98,high,low,10,namecheap,,,17/09/2026 10:30
 0c159b0f-504e-4db0-a54c-28bcca533b89,kindly.furniture,available,23.98,127.98,high,low,6,namecheap,,,24/09/2026 22:41
@@ -929,6 +983,7 @@ a00dd528-ce98-4f41-b7ef-56a3109e2eeb,barkeeper.furniture,available,23.98,127.98,
 142cd44b-f0c1-42aa-8508-2cae4927506c,azygos.furniture,available,23.98,127.98,medium,low,6,namecheap,,,08/08/2026 03:32
 5339186a-9591-44b2-aaae-d847fd124b7f,verboten.furniture,available,23.98,127.98,medium,low,8,namecheap,,,18/08/2026 11:06
 4740481a-f180-4889-ae16-457fd252af24,percipient.furniture,available,23.98,127.98,high,low,10,namecheap,,,08/09/2026 16:17
+f340b25e-405c-4d01-8f6f-714d91ae5bff,toronto.furniture,premium,108.9,108.9,high,low,7,dynadot,,,29/09/2026 02:20
 d35c2e7c-2f39-4123-944e-636e6d7b97cd,reasonless.furniture,available,23.98,127.98,medium,low,10,namecheap,,,11/08/2026 22:42
 515237c1-af6c-46ec-98c8-66c6e9d47dc9,celluloid.furniture,available,23.98,127.98,high,low,9,namecheap,,,11/08/2026 23:34
 0c21953e-a0a2-4fbf-89d2-afd464ddeca7,amber.furniture,available,27.99,94.99,high,low,5,namesilo,,,22/09/2026 03:52
@@ -944,58 +999,3 @@ ae0c471b-8393-45ca-b7b2-b460915f9049,basaltic.furniture,available,23.98,127.98,m
 8ed1abbd-e145-40bb-9691-0f75f738ff66,antigen.furniture,available,27.99,94.99,high,low,7,namesilo,,,19/09/2026 14:24
 cce45fc2-6a63-44f0-bf95-aa85d2468095,existed.furniture,available,27.99,94.99,medium,low,7,namesilo,,,27/09/2026 21:59
 5906abb9-b191-4577-9360-32138ee9f29c,transports.furniture,available,27.99,94.99,medium,low,10,namesilo,,,20/09/2026 13:26
-0d4fabd1-8a37-4394-9449-d0d4852b9235,soap.furniture,available,39.99,,high,low,4,name.com,,,
-a0d863e7-d0de-4876-b7ca-4b499112682d,baseboard.furniture,available,23.98,127.98,high,low,9,namecheap,,,22/09/2026 10:08
-0b8e6c93-803a-451d-a0a5-e2c5d97d2270,skewed.furniture,available,23.98,127.98,medium,low,6,namecheap,,,10/09/2026 09:28
-09926ace-e9d4-4f75-8805-7c82e628ea3c,deducible.furniture,available,23.98,127.98,medium,low,9,namecheap,,,13/08/2026 22:25
-47972a07-f65f-4c3a-84d8-f33f874a904e,yesterday.furniture,available,39.99,,high,low,9,name.com,,,
-3bd5dfe4-3439-4117-a87b-23d476bf50b9,dylan.furniture,available,27.99,94.99,high,low,5,namesilo,,,25/09/2026 00:22
-98facd9f-8b3a-49e9-adf3-b118ddeb98d4,boiled.furniture,available,23.98,127.98,high,low,6,namecheap,,,10/08/2026 17:32
-27937481-ba20-46c8-8f50-9fc07c7cfd31,enjoyed.furniture,available,27.99,94.99,medium,low,7,namesilo,,,25/09/2026 20:42
-7130501f-973d-4148-85eb-cccb2db11f96,minimalist.furniture,available,23.98,127.98,high,low,10,namecheap,,,24/08/2026 23:51
-f4ebc01f-7cd6-473a-ac35-9287fc08a589,hoagy.furniture,available,23.98,127.98,high,low,5,namecheap,,,24/09/2026 20:07
-2c7ccd86-9cb3-4a9b-9bf5-780d26deafac,uneven.furniture,available,23.98,127.98,high,low,6,namecheap,,,04/09/2026 00:48
-45c1c177-fd2e-4fa5-94a7-58618a4cca46,bitis.furniture,available,27.99,94.99,medium,low,5,namesilo,,,23/09/2026 22:37
-946ff219-8225-49a5-af98-7e9b9cd85570,random.furniture,available,23.98,127.98,high,medium,6,namecheap,,,19/09/2026 11:18
-595fd4e3-ad58-454a-9758-422aeeb3c856,brook.furniture,available,39.99,,high,low,5,name.com,,,
-b0660eb4-b476-41b5-bdbb-394fe932628c,seltzer.furniture,available,23.98,127.98,high,low,7,namecheap,,,24/09/2026 12:47
-e4524187-d8b8-4fff-933f-64092c2c54d0,fatigued.furniture,available,23.98,127.98,medium,low,8,namecheap,,,14/08/2026 14:49
-ef6c00fd-6226-4582-af6a-7c57e87c8a2f,radius.furniture,available,26.5,,high,low,6,unstoppable,,,28/09/2026 03:00
-a1680aec-d09b-4c43-878d-66da1c968490,strongly.furniture,available,39.99,,high,low,8,name.com,,,
-92b57761-2ab6-4511-9bfd-5595fe446f32,craniate.furniture,available,23.98,127.98,medium,low,8,namecheap,,,13/09/2026 04:37
-12398e7a-792f-43d6-b8bf-42696e754f76,mendelian.furniture,available,23.98,127.98,medium,low,9,namecheap,,,24/08/2026 20:06
-8614370f-ee75-453d-8552-1d1881b1f173,receivable.furniture,available,23.98,127.98,high,low,10,namecheap,,,09/09/2026 11:20
-ab54eb39-272a-4915-9acd-8acb990bc319,sly.furniture,available,27.99,94.99,high,low,3,namesilo,,,24/09/2026 01:29
-84d59e4f-8b96-4661-9a04-0fd6a8247cb3,composing.furniture,available,27.99,94.99,high,low,9,namesilo,,,24/09/2026 16:54
-7d5b830f-8d46-4012-a345-50fd5183d41b,glamour.furniture,available,23.98,127.98,high,low,7,namecheap,,,21/08/2026 07:43
-8c236ff1-6e94-4e34-81f0-819fef48692f,spillover.furniture,available,27.99,94.99,medium,low,10,namesilo,,,16/09/2026 17:36
-b68fca1c-7064-4ef9-95ec-8e0a2b9f6142,amplifying.furniture,available,27.99,94.99,medium,low,10,namesilo,,,17/09/2026 20:45
-0c40860f-d812-44c6-88cb-488cb1ba958a,incarnate.furniture,available,23.98,127.98,high,low,9,namecheap,,,16/08/2026 09:36
-24a7bc94-10c4-4c18-9599-23d5edb665db,privilege.furniture,available,177.99,177.99,high,low,9,godaddy,,,28/09/2026 01:52
-0290966f-1cc8-4c81-9b0e-6ff17d4c73b0,duckbill.furniture,available,23.98,127.98,medium,low,8,namecheap,,,14/08/2026 20:46
-7e0e8858-de1b-4668-a857-ad408a07f20e,arugula.furniture,available,23.98,127.98,high,low,7,namecheap,,,20/09/2026 12:10
-8ea431d9-c235-4086-961a-101248919789,dodging.furniture,available,27.99,94.99,medium,low,7,namesilo,,,21/09/2026 09:51
-41c37b5e-d213-405a-86a9-dbebe7af8a8a,moustaches.furniture,available,27.99,94.99,medium,low,10,namesilo,,,20/09/2026 09:53
-02b47446-92b6-4d9f-8cb5-64d953ad0fa1,calamitous.furniture,available,23.98,127.98,medium,low,10,namecheap,,,11/08/2026 13:28
-efd38ed8-ca12-4896-86a4-851aef14164e,harmful.furniture,available,23.98,127.98,medium,low,7,namecheap,,,08/09/2026 09:32
-4224eeb9-ed4e-4dfd-8062-2bafb58bc792,suspension.furniture,available,39.99,,high,low,10,name.com,,,
-1155a2c0-7b1c-4e67-b269-1bbb8659b084,crafts.furniture,available,27.99,94.99,high,low,6,namesilo,,,19/09/2026 02:50
-70b05a03-2341-4153-8b3c-5dd5598e3954,sophia.furniture,available,20.9,82.76,high,low,6,spaceship,,,28/09/2026 07:06
-49d5c6a4-68e4-4542-8f58-63057d49c838,plump.furniture,available,23.98,127.98,high,low,5,namecheap,,,12/08/2026 07:35
-85fbda06-cceb-44cf-b0a9-91eee07f3c95,assignable.furniture,available,23.98,127.98,medium,low,10,namecheap,,,07/08/2026 06:19
-393ff9c4-18cd-48d3-ad20-e53fa52d0af6,blusher.furniture,available,27.99,94.99,medium,low,7,namesilo,,,18/09/2026 15:49
-5c961965-482c-430b-958f-0463b329962f,plugs.furniture,available,23.98,127.98,medium,low,5,namecheap,,,20/09/2026 11:28
-00723aea-6c1e-44f6-9efb-8912f75f46d8,dividable.furniture,available,23.98,127.98,medium,low,9,namecheap,,,14/08/2026 13:41
-c0b3c104-9027-45cc-8a90-002832f2b6cf,unlicensed.furniture,available,23.98,127.98,medium,low,10,namecheap,,,11/09/2026 23:37
-56f49505-6c2d-4f95-ab0b-89d5b622108e,downer.furniture,available,23.98,127.98,medium,low,6,namecheap,,,14/08/2026 02:41
-4999ced3-a687-4f1f-8f95-1852f6f1d6ea,brutality.furniture,available,23.98,127.98,medium,low,9,namecheap,,,22/09/2026 04:26
-9e161372-7f68-41ad-b937-0804f99466aa,punk.furniture,available,27.99,94.99,high,low,4,namesilo,,,23/09/2026 11:14
-e0eb2656-ba87-41f0-be41-3a3e4bdc3820,receding.furniture,available,23.98,127.98,medium,low,8,namecheap,,,09/09/2026 11:16
-173087a5-77f0-464a-bb34-ba627b5b3dfa,stuffy.furniture,available,23.98,127.98,high,low,6,namecheap,,,
-8fd12c1b-5112-4216-b4a9-12cb51d2c38a,fulgurous.furniture,available,39.99,151.99,medium,low,9,name.com,,,13/08/2026 19:01
-d08f0610-9a28-40fe-96f2-984f95ec5ba5,extendable.furniture,available,23.98,127.98,medium,low,10,namecheap,,,17/08/2026 18:59
-a535a25c-3eca-431e-960a-c499de097506,florence.furniture,available,21.11,82.9,high,low,8,porkbun,,,28/09/2026 05:43
-5e9ece6c-4f95-4bd4-b85f-26911c983318,construction.furniture,available,39.99,,high,low,12,name.com,,,
-8301460c-7df7-4bde-b252-8cd48770432e,aquila.furniture,available,27.99,94.99,medium,low,6,namesilo,,,19/09/2026 23:12
-3617fc51-2419-4dbc-8b53-13ba34da0b4a,murders.furniture,available,39.99,151.99,low,low,7,name.com,,,25/09/2026 21:34
-423bd1e2-416a-45c4-b943-9c61c5340837,claremont.furniture,available,27.99,94.99,high,low,9,namesilo,,,27/09/2026 08:22
